@@ -1,0 +1,19 @@
+Format: 1.8
+Date: Wed, 22 May 2024 15:56:28 +0000
+Source: hello-mlibrary
+Binary: hello-mlibrary
+Architecture: amd64
+Version: 0.1.0
+Distribution: bionic
+Urgency: medium
+Maintainer: Us <us@lib.umich.edu>
+Description: Say hi!
+Changes:
+ hello-mlibrary (0.1.0) bionic; urgency=medium
+  * Package created with FPM.
+Checksums-Sha1:
+ 8f7c823cd82992ce94cb4fa29bbc894930140d42 1424 hello-mlibrary_0.1.0_amd64.deb
+Checksums-Sha256:
+ 27d035bcf78ec3c07c5c2576b359b1d274fdff911aeff2d138974d234d885734 1424 hello-mlibrary_0.1.0_amd64.deb
+Files:
+ ddca3468084ba40dfa9ec9f10b7230d8 1424 default optional hello-mlibrary_0.1.0_amd64.deb
