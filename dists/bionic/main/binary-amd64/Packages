@@ -1,0 +1,18 @@
+Package: hello-mlibrary
+Version: 0.1.0
+License: bsd3
+Vendor: none
+Architecture: amd64
+Maintainer: Us <us@lib.umich.edu>
+Installed-Size: 0
+Depends: bash
+Homepage: https://mlibrary.invalid/hello-mlibrary
+Priority: optional
+Section: default
+Filename: pool/main/h/hello-mlibrary/hello-mlibrary_0.1.0_amd64.deb
+Size: 1424
+SHA256: 27d035bcf78ec3c07c5c2576b359b1d274fdff911aeff2d138974d234d885734
+SHA1: 8f7c823cd82992ce94cb4fa29bbc894930140d42
+MD5sum: ddca3468084ba40dfa9ec9f10b7230d8
+Description: Say hi!
+
