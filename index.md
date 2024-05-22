@@ -16,11 +16,11 @@ This is an example on how to host a custom Debian package repository using GitHu
 To use the repository, please follow these steps:
 1. Import key:
 ```bash
-wget -qO - "https://itsblue.github.io/github-pages-dep-repo/pub.gpg" | sudo apt-key add -
+wget -qO - "https://apt.lib.umich.edu/github-pages-dep-repo/pub.gpg" | sudo apt-key add -
 ```
 2. Add repo:
 ```bash
-echo "deb https://itsblue.github.io/github-pages-dep-repo bionic main" > /etc/apt/sources.list.d/github-pages-dep-repo.list
+echo "deb https://apt.lib.umich.edu/github-pages-dep-repo bullseye main" > /etc/apt/sources.list.d/github-pages-dep-repo.list
 ```
 3. Apt update
 ```bash
