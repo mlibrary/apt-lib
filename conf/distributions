@@ -6,3 +6,12 @@ Components: main
 Description: bionic stable
 SignWith: C7EBE41A7D5F8CDD
 
+Origin: codecrafter912.github.io
+Label: codecrafter912.github.io
+Codename: bionic
+Architectures: i386 amd64 source
+Components: main
+Description: bullseye stable
+SignWith: C7EBE41A7D5F8CDD
+
+
