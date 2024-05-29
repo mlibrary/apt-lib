@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: apt.lib.umich.edu
+Codename: bookworm
+Date: Wed, 29 May 2024 16:54:19 UTC
+Architectures: amd64 arm64
+Components: main
+Description: bookworm stable
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-amd64/Packages.gz
+ 7be0de85cdbcb97209ff1271176b9a74 91 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-arm64/Packages.gz
+ 41c78da41fe260da08b968d401baec24 91 main/binary-arm64/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-amd64/Packages.gz
+ 341d6206401c6cc57a4ac72482e5bd3de6f804ed 91 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-arm64/Packages.gz
+ e23f06fdd16cf671f646c3ea2a0b8d86cb0ef7b1 91 main/binary-arm64/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-amd64/Packages.gz
+ 9c08eae6c585f4c05111d09f6325bfc666c8c106c5b3b59e33d966fdf9a74326 91 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-arm64/Packages.gz
+ 41d8270eeb8f42b26bb0b93d446844302e0398fc23739fa2b1d7b757d1c212cb 91 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE2mz2fxnHeCzq/H2bdQVa+wqdxp8FAmZXXbsACgkQdQVa+wqd
+xp+5ew/+PKpImRV9KF/akEuHsDAQS6zvZWNME4si+bdCsI7IEiD3INenvUZYiV9R
+GxytRCaOgFlwF8YSCFxDzBmnmU8Fxg9U7zlwGGwYlx5ivh2XWjIwqUEyrqlKqQIg
+3qpJ6ZZ+NQuOFDtfL5VBkpmRvx3vbZ2pYCSILndrl0hGvd4XNOEPyd3NFdNHLww+
+2emrqv8aOF4L7xYc50BAZYlmnu8NHrROUdQSwUhb22KRq5I43hBgs2+5oseqgHmM
+HhgQ7dwqFUxuFZUehYh2sW8I7O+A7wMzwYEBKknDQ1TW8iUnoeut5my4+jUcaTjm
+P7R37OnglGVZ6wx8cZmIy2Aq9siYVnh8V3bXNIzCBPv9NmRQwHrJ0fkc3hKJI+Jd
+V5SWgPkxtRDYdt8emXgPz5dAwbWUhU1FLkzexmMdax54BRm7eNZ/V5n4zLbDlBbw
+REICLRLAY4datqeFhB1NvWzILBPvPxlSSm+XQJU1oAkP4OpB4S8cTmKUf4kclcou
+zci3wLjbWJx2H5/pnDvfcrEXWD4sRorsCzDCLr87ay+uCyGtkSBtwyUiGphwi0wi
+zvBDQ/obWZFsyFJRxnef4SINc4CxzVmjbeeq6SofnqVZUtZElHyPqwgm1EVtIpdI
+HhUcBPzIZxVLuwJR44ZF2URnc5mF4auHca+DHu0Pg3rIqLKsFqk=
+=+/3B
+-----END PGP SIGNATURE-----

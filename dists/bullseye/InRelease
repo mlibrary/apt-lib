@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: apt.lib.umich.edu
+Codename: bullseye
+Date: Wed, 29 May 2024 16:54:19 UTC
+Architectures: amd64 arm64
+Components: main
+Description: bullseye stable
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-amd64/Packages.gz
+ 8883ad0b3de568d6045969f9a772b93f 91 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-arm64/Packages.gz
+ a0fd48c2e46473cf445aae5867ad8c5f 91 main/binary-arm64/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-amd64/Packages.gz
+ 020c6e0a94b28889b76d5c3d492514879af085a6 91 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-arm64/Packages.gz
+ 36af65dd7e81dea310fb9d228a912199bfec856f 91 main/binary-arm64/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-amd64/Packages.gz
+ 3800d470d3c25862a49898f9ae22cb34eb2cec939502dcf9e840137464224e6c 91 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-arm64/Packages.gz
+ fd52383fde7adef223df89a7830257c6f01c2249747c7093ceda8796fb93e7c9 91 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE2mz2fxnHeCzq/H2bdQVa+wqdxp8FAmZXXbsACgkQdQVa+wqd
+xp81tA/9F0EHepIzKdlZaScxEKZbRVRiqnQ4eo2Eb7BJjY3Pg4sl2UGRs0Eok9Yb
+7DXHalajTGA5b/X9jCDW6oeSu1UI5DNO2wnnOZR2wm2e+n8X4ZmxDhcyt+dWfo8k
+/qMDNkeh5HtdXaRcJEJBSn0HYFZF2dSMcVwfAeitval+Gl1F/RUVLjBc228GQjZf
+jo46evL2YS+alhhOKsIqc8R9asH/pyPJ3wMUeETcWqOke92TjCLH1vhRBEY4v0r8
+7HG9bao8DE44TogaJCj9G3lOZdVqwc4o0R6C7Q1aZl2xY4TRTppEIu0hVnPjL+I1
+6uGRM8oy1rwvZivzDG38vznSg3ml4r3qT8szCi3n+/BQqYt6MeDuBl2tAGAP6SK+
+PnGot08xEjeUuSlpPF4tmoosqcYGfmRIOdeI3RIxkusVn3zkvyigSSVDAfEFo3G7
+bM1a7NSN+23pNh7rrW5BPldPbrdh0T+ZL9oB/FD8ubKgnVmMI+z593LXu7jM7VmZ
+uvfUVSTZrxr6WcKXywaWtlUcitfuhIKT995pwoXIJzafRUzOd1FH+XQ98c1pobzg
+2l4KUFOhKlIKfTY5NCoahgZl50LArQGiktH/94ZcJ61V7jGqE3pW7f/OEr1cxzfw
+LEB3WgDsBMnLT4B1kZhGdORq/anRscDXc1TFVUz7uNcnd89nUrg=
+=QOaB
+-----END PGP SIGNATURE-----

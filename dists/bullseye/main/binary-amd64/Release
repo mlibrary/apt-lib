@@ -1,0 +1,4 @@
+Component: main
+Origin: apt.lib.umich.edu
+Architecture: amd64
+Description: bullseye stable
