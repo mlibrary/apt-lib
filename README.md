@@ -1,5 +1,5 @@
 <p align="center">
- <h1 align="center"> - GitHub pages DEB-repo - </h1>
+ <h1 align="center"> - MLibrary Public DEB-repo - </h1>
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-This is an example on how to host a custom Debian package repository using GitHub pages.
+MLibrary Public Packages (Bullseye)
 </p>
 
 # Setup
