@@ -2,5 +2,4 @@ Name: default
 IncomingDir: incoming
 TempDir: tmp
 Allow: bullseye bookworm jammy
-Limit: 5
 Cleanup:
