@@ -1,20 +1,20 @@
 Origin: apt.lib.umich.edu
 Codename: bullseye
-Architectures: all amd64 arm64
+Architectures: amd64 arm64
 Components: main
 Description: MLibrary Packages for Debian 11 (bullseye)
 SignWith: 75055AFB0A9DC69F
 
 Origin: apt.lib.umich.edu
 Codename: bookworm
-Architectures: all amd64 arm64
+Architectures: amd64 arm64
 Components: main
 Description: MLibrary Packages for Debian 12 (bookworm)
 SignWith: 75055AFB0A9DC69F
 
 Origin: apt.lib.umich.edu
 Codename: jammy
-Architectures: all amd64 arm64
+Architectures: amd64 arm64
 Components: main
 Description: MLibrary Packages for Ubuntu 22.04 (jammy)
 SignWith: 75055AFB0A9DC69F
