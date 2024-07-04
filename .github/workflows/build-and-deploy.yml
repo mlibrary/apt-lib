@@ -18,7 +18,7 @@ jobs:
           pip3 install mako
 
           # import keys
-          gpg2 --import deploy/pub.gpg
+          gpg2 --import deploy/mlibrary-archive-keyring.gpg
           echo -e "${{ secrets.GPG_PRIVATE_KEY }}" | gpg2 --import
           
           mkdir incoming
