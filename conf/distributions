@@ -1,23 +1,20 @@
-Origin: codecrafter912.github.io
-Label: codecrafter912.github.io
-Codename: bionic
-Architectures: i386 amd64 source
-Components: main
-Description: bionic stable
-SignWith: 75055AFB0A9DC69F
-
 Origin: apt.lib.umich.edu
 Codename: bullseye
-Architectures: amd64 arm64 
+Architectures: all amd64 arm64
 Components: main
-Description: bullseye stable
+Description: MLibrary Packages for Debian 11 (bullseye)
 SignWith: 75055AFB0A9DC69F
 
 Origin: apt.lib.umich.edu
 Codename: bookworm
-Architectures: amd64 arm64
+Architectures: all amd64 arm64
 Components: main
-Description: bookworm stable
+Description: MLibrary Packages for Debian 12 (bookworm)
 SignWith: 75055AFB0A9DC69F
 
-
+Origin: apt.lib.umich.edu
+Codename: jammy
+Architectures: all amd64 arm64
+Components: main
+Description: MLibrary Packages for Ubuntu 22.04 (jammy)
+SignWith: 75055AFB0A9DC69F
