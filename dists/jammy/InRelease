@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: apt.lib.umich.edu
+Codename: jammy
+Date: Thu, 04 Jul 2024 03:04:27 UTC
+Architectures: amd64 arm64
+Components: main
+Description: MLibrary Packages for Ubuntu 22.04 (jammy)
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-amd64/Packages.gz
+ c6a50e6324ba7788e81990edd46aa914 118 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-arm64/Packages.gz
+ 5d60d0033093a0c841380a25fc23b3c6 118 main/binary-arm64/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-amd64/Packages.gz
+ 6825d4024935aab164e91f5f174b3044093ab39e 118 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-arm64/Packages.gz
+ fc725776f7ad6d5d02218c1d17d7bd611dfbfbe1 118 main/binary-arm64/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-amd64/Packages.gz
+ a6d6b6d41455a208fa5c5848a21642e8027745ccf2c03be9ab34734fa23451d0 118 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-arm64/Packages.gz
+ a9b36f9248d0b9c38de08a8f2441ff7d99726d55c198010dde0f8dbb331a7d58 118 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE2mz2fxnHeCzq/H2bdQVa+wqdxp8FAmaGETsACgkQdQVa+wqd
+xp+HyxAAtn+IqnlcluHezuyABx5o/8zARK/l42NbMNORfVuAzh8d18/zRT74WEd7
+EhTI7UH+h2jnXrVgQ5PKHQ9y+ewhM4vtv2MCmnhvXn7BDTNGuSm2aUIT7zyJnB35
+Q4NI6bnyNoN96g2yiE3iDPDZTdQhti0KA0lXgXHnkKQIfestssLtN4/PcQy24n6w
+ibJOAzICfsnLKGwfVTbjYZcfYh/gu88ibiij2PjzFjYMDrpm7AqH34uqUoODmioY
+OZfmwv3Fup8e4gb/Bxz3tezKBNkdoPR+AGE96IwiZ8MYGn03EeJfpykOItZ5/cG6
+43+3naHGJoYeajB2xWC/pqd1H1o8D3kgy0agqe2P6Qx+gWpO+pJAAeimUCNGluTz
+AFn41qEy2FOIKheSxXAZ26IxeQfCBTTHXT/yBzTkVR6fXsKlN8mBPc1nmot80MZo
+xoA/ELL76sScAnZYjbfNx7iXGqsmRjKi1IaW71DMoYYdo81vwLW1EuiRxIrqN0mk
+apXGVV7jJnE6XT6kWC3/UtrBCCJixrAF29O0K4FJY36Cvg/o6qNw9MZWiVumHBXH
+r1ATQ2jODqZiQyXgW5j9Zux7618hjSGupOIz28/O+pcRtAximS4ByGfM9/PtmjKR
+Ijxd1Mn3rAecG3dQ0g5ZU3TgljIrA0NZIOfxzO33J/t2yuwT6mk=
+=GzW9
+-----END PGP SIGNATURE-----

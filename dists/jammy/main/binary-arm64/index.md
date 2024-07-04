@@ -1,5 +1,5 @@
 
-# Index of /dists/bionic/main/binary-amd64
+# Index of /dists/jammy/main/binary-arm64
 Files in this directory:
 - ⤴ [Parent Directory](../)
 - 🗒 [Packages](Packages)

@@ -1,5 +1,5 @@
 
-# Index of /dists/bionic
+# Index of /dists/jammy
 Files in this directory:
 - ⤴ [Parent Directory](../)
 - 🗒 [InRelease](InRelease)

@@ -1,4 +1,4 @@
 Component: main
 Origin: apt.lib.umich.edu
 Architecture: arm64
-Description: bookworm stable
+Description: MLibrary Packages for Debian 12 (bookworm)

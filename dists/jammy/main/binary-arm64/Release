@@ -1,4 +1,4 @@
 Component: main
 Origin: apt.lib.umich.edu
 Architecture: arm64
-Description: MLibrary Packages for Debian 11 (bullseye)
+Description: MLibrary Packages for Ubuntu 22.04 (jammy)
