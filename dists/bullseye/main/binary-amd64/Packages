@@ -1,18 +1,18 @@
 Package: libapache2-mod-lauth
-Version: 0.0.9
+Version: 0.0.10
 License: unknown
 Vendor: none
 Architecture: amd64
 Maintainer: University of Michigan Library Information Technology
-Installed-Size: 9247
+Installed-Size: 9556
 Depends: apache2, libstdc++6, libssl1.1
 Homepage: https://github.com/mlibrary/lauth
 Priority: optional
 Section: default
-Filename: pool/main/liba/libapache2-mod-lauth/libapache2-mod-lauth_0.0.9_amd64.deb
-Size: 2111416
-SHA256: 1933bf3551123e3273af0bf24736976327f2262e8b11b45cda28ebb77195192c
-SHA1: 340528e97207d3ea3e3cc40b31141434cc87f93b
-MD5sum: 5352f04ebcfe21f54535f095560d95ed
+Filename: pool/main/liba/libapache2-mod-lauth/libapache2-mod-lauth_0.0.10_amd64.deb
+Size: 2208248
+SHA256: 1242d989ee468d16d741609d22795cf651be5633ff53d7149b32b8622781d436
+SHA1: 9e8be1308660d4d72a04f62d8d675896dbd9c90f
+MD5sum: a81391e471d9c08847aeafbc2f96ea81
 Description: Library Authentication/Authorization Module for Apache2
 
