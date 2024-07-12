@@ -1,0 +1,19 @@
+Format: 1.8
+Date: Fri, 12 Jul 2024 14:06:02 +0000
+Source: libapache2-mod-lauth
+Binary: libapache2-mod-lauth
+Architecture: amd64
+Version: 0.0.9
+Distribution: bullseye
+Urgency: medium
+Maintainer: University of Michigan Library Information Technology
+Description: Library Authentication/Authorization Module for Apache2
+Changes:
+ libapache2-mod-lauth (0.0.9) bullseye; urgency=medium
+  * Package created with FPM.
+Checksums-Sha1:
+ 340528e97207d3ea3e3cc40b31141434cc87f93b 2111416 libapache2-mod-lauth_0.0.9_amd64.deb
+Checksums-Sha256:
+ 1933bf3551123e3273af0bf24736976327f2262e8b11b45cda28ebb77195192c 2111416 libapache2-mod-lauth_0.0.9_amd64.deb
+Files:
+ 5352f04ebcfe21f54535f095560d95ed 2111416 default optional libapache2-mod-lauth_0.0.9_amd64.deb
