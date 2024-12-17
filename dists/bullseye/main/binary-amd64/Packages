@@ -1,3 +1,21 @@
+Package: libapache2-mod-authn-remoteuser
+Version: 0.0.1
+License: unknown
+Vendor: none
+Architecture: amd64
+Maintainer: University of Michigan Library Information Technology
+Installed-Size: 35
+Depends: apache2
+Homepage: https://github.com/mlibrary/lauth
+Priority: optional
+Section: default
+Filename: pool/main/liba/libapache2-mod-authn-remoteuser/libapache2-mod-authn-remoteuser_0.0.1_amd64.deb
+Size: 14920
+SHA256: db23c38835e62630f00ca2be281f230b384ece127498fdec2b81fded425d6bd0
+SHA1: 176c96395417f05b878ab2e9ee09bfd6eb66d5ab
+MD5sum: 156ec37f49fb11bc8e9ae0a2e10ba280
+Description: Fake Remote User Authentication Module for Apache2
+
 Package: libapache2-mod-lauth
 Version: 0.0.10
 License: unknown
