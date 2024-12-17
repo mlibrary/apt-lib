@@ -1,0 +1,19 @@
+Format: 1.8
+Date: Fri, 12 Jul 2024 21:34:46 +0000
+Source: libapache2-mod-authn-remoteuser
+Binary: libapache2-mod-authn-remoteuser
+Architecture: amd64
+Version: 0.0.1
+Distribution: bullseye
+Urgency: medium
+Maintainer: University of Michigan Library Information Technology
+Description: Fake Remote User Authentication Module for Apache2
+Changes:
+ libapache2-mod-authn-remoteuser (0.0.1) bullseye; urgency=medium
+  * Package created with FPM.
+Checksums-Sha1:
+ 176c96395417f05b878ab2e9ee09bfd6eb66d5ab 14920 libapache2-mod-authn-remoteuser_0.0.1_amd64.deb
+Checksums-Sha256:
+ db23c38835e62630f00ca2be281f230b384ece127498fdec2b81fded425d6bd0 14920 libapache2-mod-authn-remoteuser_0.0.1_amd64.deb
+Files:
+ 156ec37f49fb11bc8e9ae0a2e10ba280 14920 default optional libapache2-mod-authn-remoteuser_0.0.1_amd64.deb
