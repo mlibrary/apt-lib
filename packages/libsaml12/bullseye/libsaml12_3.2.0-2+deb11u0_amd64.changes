@@ -1,5 +1,5 @@
 Format: 1.8
-Date: Wed, 19 Mar 2025 12:00:00 +0000
+Date: Wed, 19 Mar 2025 18:00:00 +0000
 Source: opensaml
 Binary: libsaml12
 Architecture: amd64
@@ -11,8 +11,8 @@ Description: Security Assertion Markup Language library (runtime)
 Changes:
  libsaml12 (3.2.0-2+deb11u0) bullseye; urgency=medium
 Checksums-Sha1:
- be175243e5e757eaaf41282fd0ab33e01362879a 9408840 libsaml12.deb
+ be175243e5e757eaaf41282fd0ab33e01362879a 9408840 libsaml12_3.2.0-2+deb11u0_amd64.deb
 Checksums-Sha256:
- 1324c8f0a6453fdba3d8da4d48019100a16b11515ca765ffc2bdb8d91415fdea 9408840 libsaml12.deb
+ 1324c8f0a6453fdba3d8da4d48019100a16b11515ca765ffc2bdb8d91415fdea 9408840 libsaml12_3.2.0-2+deb11u0_amd64.deb
 Files:
- 3a31958b6678bd01d1f3db46554e5362 9408840 default optional libsaml12.deb
+ 3a31958b6678bd01d1f3db46554e5362 9408840 default optional libsaml12_3.2.0-2+deb11u0_amd64.deb
