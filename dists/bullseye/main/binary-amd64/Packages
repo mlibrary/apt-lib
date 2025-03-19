@@ -34,3 +34,26 @@ SHA1: 9e8be1308660d4d72a04f62d8d675896dbd9c90f
 MD5sum: a81391e471d9c08847aeafbc2f96ea81
 Description: Library Authentication/Authorization Module for Apache2
 
+Package: libsaml12
+Source: opensaml
+Version: 3.2.0-2+deb11u0
+Architecture: amd64
+Maintainer: Debian Shib Team <pkg-shibboleth-devel@alioth-lists.debian.net>
+Depends: libc6 (>= 2.14), libgcc-s1 (>= 3.0), liblog4shib2, libstdc++6 (>= 9), libxerces-c3.2, libxml-security-c20 (>= 2.0.2), libxmltooling10 (>= 3.2.0)
+Multi-Arch: same
+Homepage: https://wiki.shibboleth.net/confluence/display/OpenSAML/Home
+Priority: optional
+Section: default
+Filename: pool/main/o/opensaml/libsaml12_3.2.0-2+deb11u0_amd64.deb
+Size: 9408840
+SHA256: 1324c8f0a6453fdba3d8da4d48019100a16b11515ca765ffc2bdb8d91415fdea
+SHA1: be175243e5e757eaaf41282fd0ab33e01362879a
+MD5sum: 3a31958b6678bd01d1f3db46554e5362
+Description: Security Assertion Markup Language library (runtime)
+ OpenSAML is an open source implementation of the OASIS
+ Security Assertion Markup Language Specification. It contains a set of open
+ source C++ classes that support the SAML 1.0, 1.1, and 2.0 specifications.
+ .
+ This package contains the files necessary for running applications that
+ use the OpenSAML library.
+
