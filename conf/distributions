@@ -18,3 +18,10 @@ Architectures: amd64 arm64
 Components: main
 Description: MLibrary Packages for Ubuntu 22.04 (jammy)
 SignWith: 75055AFB0A9DC69F
+
+Origin: apt.lib.umich.edu
+Codename: noble
+Architectures: amd64 arm64
+Components: main
+Description: MLibrary Packages for Ubuntu 24.04 (noble)
+SignWith: 75055AFB0A9DC69F

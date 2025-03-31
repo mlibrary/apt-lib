@@ -1,5 +1,5 @@
 Name: default
 IncomingDir: incoming
 TempDir: tmp
-Allow: bullseye bookworm jammy
+Allow: bullseye bookworm jammy noble
 Cleanup:

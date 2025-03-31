@@ -1,0 +1,17 @@
+Format: 1.8
+Date: Mon, 31 Mar 2025 15:00:00 +0000
+Source: puppet-agent
+Binary: puppet-agent
+Architecture: amd64
+Version: 8.10.0-1bookworm
+Distribution: bookworm
+Maintainer: Puppet Labs <info@puppetlabs.com>
+Description: The Puppet Agent package contains all of the elements needed to run puppet, including ruby and facter.
+Changes:
+ puppet-agent (8.10.0-1bookworm) bookworm
+Checksums-Sha1:
+  9e5a285e69dd65ca34c307f1a7bc3b87b156de15 35840976 puppet-agent_8.10.0-1bookworm_amd64.deb
+Checksums-Sha256:
+  68bc4c70c27d8ae3961bde8d8c2bd195cb432befb312a12b7fe4deacc9c0283a 35840976 puppet-agent_8.10.0-1bookworm_amd64.deb
+Files:
+  923414bb4378dafddbf8c8dc9ef0711f 35840976 default optional puppet-agent_8.10.0-1bookworm_amd64.deb

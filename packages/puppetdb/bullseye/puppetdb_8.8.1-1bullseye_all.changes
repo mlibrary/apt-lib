@@ -1,0 +1,17 @@
+Format: 1.8
+Date: Mon, 31 Mar 2025 15:00:00 +0000
+Source: puppetdb
+Binary: puppetdb
+Architecture: all
+Version: 8.8.1-1bullseye
+Distribution: bullseye
+Maintainer: Puppet Labs <info@puppetlabs.com>
+Description: Puppet Labs puppetdb
+Changes:
+ puppetdb (8.8.1-1bullseye) bullseye
+Checksums-Sha1:
+  24db7aa2942fc9bdc58a3db0146ce3b0f5d5361d 61642398 puppetdb_8.8.1-1bullseye_all.deb
+Checksums-Sha256:
+  6dbdd3efe542677fcf17dd0dc0cd47c3c936c3c2e666d2eaa2af65994d9cd8c9 61642398 puppetdb_8.8.1-1bullseye_all.deb
+Files:
+  96aa334d2d49eaca2fb030bcb6435178 61642398 default optional puppetdb_8.8.1-1bullseye_all.deb

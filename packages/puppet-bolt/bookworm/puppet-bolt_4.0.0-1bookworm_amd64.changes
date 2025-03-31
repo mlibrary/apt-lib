@@ -1,0 +1,17 @@
+Format: 1.8
+Date: Mon, 31 Mar 2025 15:00:00 +0000
+Source: puppet-bolt
+Binary: puppet-bolt
+Architecture: amd64
+Version: 4.0.0-1bookworm
+Distribution: bookworm
+Maintainer: Puppet Labs <info@puppetlabs.com>
+Description: Stand alone task runner
+Changes:
+ puppet-bolt (4.0.0-1bookworm) bookworm
+Checksums-Sha1:
+  feaa41d9318a5eb313af973bcbf335d704a188fd 38555850 puppet-bolt_4.0.0-1bookworm_amd64.deb
+Checksums-Sha256:
+  a39ab456b7fbe5b7c5b78068a142dadd3e5f14ffe24a8fa4f8b3ac8fd7da8d10 38555850 puppet-bolt_4.0.0-1bookworm_amd64.deb
+Files:
+  5c948930a99dd759bc3b34c594a4fab4 38555850 default optional puppet-bolt_4.0.0-1bookworm_amd64.deb

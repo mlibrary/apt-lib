@@ -1,0 +1,17 @@
+Format: 1.8
+Date: Mon, 31 Mar 2025 15:00:00 +0000
+Source: puppet-agent
+Binary: puppet-agent
+Architecture: amd64
+Version: 8.10.0-1jammy
+Distribution: jammy
+Maintainer: Puppet Labs <info@puppetlabs.com>
+Description: The Puppet Agent package contains all of the elements needed to run puppet, including ruby and facter.
+Changes:
+ puppet-agent (8.10.0-1jammy) jammy
+Checksums-Sha1:
+  7bc60bfeee931709c18cb4f98f6333c32b30fc36 35991090 puppet-agent_8.10.0-1jammy_amd64.deb
+Checksums-Sha256:
+  422bcdd87dbed149906fdd86115b1d13dfa3ea23f1e0ecca404466c6d4a9445a 35991090 puppet-agent_8.10.0-1jammy_amd64.deb
+Files:
+  73e1725b37818675a6847ad7be0afe0a 35991090 default optional puppet-agent_8.10.0-1jammy_amd64.deb

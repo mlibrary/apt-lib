@@ -1,0 +1,17 @@
+Format: 1.8
+Date: Mon, 31 Mar 2025 15:00:00 +0000
+Source: puppet-agent
+Binary: puppet-agent
+Architecture: amd64
+Version: 8.10.0-1noble
+Distribution: noble
+Maintainer: Puppet Labs <info@puppetlabs.com>
+Description: The Puppet Agent package contains all of the elements needed to run puppet, including ruby and facter.
+Changes:
+ puppet-agent (8.10.0-1noble) noble
+Checksums-Sha1:
+  f62c98c8235eb5b8ae5ed9be982f9bc0b7740940 36044200 puppet-agent_8.10.0-1noble_amd64.deb
+Checksums-Sha256:
+  fa4f69dc46f0e1135737242718c63db7306d408954a428027a104a55d23c4972 36044200 puppet-agent_8.10.0-1noble_amd64.deb
+Files:
+  bc1c34e2af0d6769fc0218ffe62dea94 36044200 default optional puppet-agent_8.10.0-1noble_amd64.deb

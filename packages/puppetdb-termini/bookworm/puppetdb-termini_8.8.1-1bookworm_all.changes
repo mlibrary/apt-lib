@@ -1,0 +1,17 @@
+Format: 1.8
+Date: Mon, 31 Mar 2025 15:00:00 +0000
+Source: puppetdb-termini
+Binary: puppetdb-termini
+Architecture: all
+Version: 8.8.1-1bookworm
+Distribution: bookworm
+Maintainer: Puppet Labs <info@puppetlabs.com>
+Description: Termini for puppetdb
+Changes:
+ puppetdb-termini (8.8.1-1bookworm) bookworm
+Checksums-Sha1:
+  1d0520a35d7a3fd8e92a59906e2a0215dd9e4b73 22122 puppetdb-termini_8.8.1-1bookworm_all.deb
+Checksums-Sha256:
+  6218fa5289453ffabc248cbe44da6f9b41249097624c1e13ea6bd281357021a2 22122 puppetdb-termini_8.8.1-1bookworm_all.deb
+Files:
+  acbd03237354da9fe324123eda372627 22122 default optional puppetdb-termini_8.8.1-1bookworm_all.deb

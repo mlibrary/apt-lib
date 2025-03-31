@@ -1,0 +1,17 @@
+Format: 1.8
+Date: Mon, 31 Mar 2025 15:00:00 +0000
+Source: puppetdb-termini
+Binary: puppetdb-termini
+Architecture: all
+Version: 8.8.1-1jammy
+Distribution: jammy
+Maintainer: Puppet Labs <info@puppetlabs.com>
+Description: Termini for puppetdb
+Changes:
+ puppetdb-termini (8.8.1-1jammy) jammy
+Checksums-Sha1:
+  a374632a8e7b11d3104fe35dea3a1abe8393526c 22114 puppetdb-termini_8.8.1-1jammy_all.deb
+Checksums-Sha256:
+  c05e2620b3057002abe50bd17365f2df5d49d1946af89309efb11db12333da94 22114 puppetdb-termini_8.8.1-1jammy_all.deb
+Files:
+  f4585519d6efca89598c80d37dc78827 22114 default optional puppetdb-termini_8.8.1-1jammy_all.deb

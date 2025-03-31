@@ -1,0 +1,17 @@
+Format: 1.8
+Date: Mon, 31 Mar 2025 15:00:00 +0000
+Source: puppetdb
+Binary: puppetdb
+Architecture: all
+Version: 8.8.1-1bookworm
+Distribution: bookworm
+Maintainer: Puppet Labs <info@puppetlabs.com>
+Description: Puppet Labs puppetdb
+Changes:
+ puppetdb (8.8.1-1bookworm) bookworm
+Checksums-Sha1:
+  b74620c65f032191db9603164617835ccd187277 61642374 puppetdb_8.8.1-1bookworm_all.deb
+Checksums-Sha256:
+  f1b78c5f0ad40b52e4b6eb3002ed09f946e438a243f61583f7becf430caf14e4 61642374 puppetdb_8.8.1-1bookworm_all.deb
+Files:
+  2f4f8783c406c9a14fd7704f60738ce5 61642374 default optional puppetdb_8.8.1-1bookworm_all.deb

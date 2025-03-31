@@ -1,0 +1,17 @@
+Format: 1.8
+Date: Mon, 31 Mar 2025 15:00:00 +0000
+Source: puppet-bolt
+Binary: puppet-bolt
+Architecture: amd64
+Version: 4.0.0-1jammy
+Distribution: jammy
+Maintainer: Puppet Labs <info@puppetlabs.com>
+Description: Stand alone task runner
+Changes:
+ puppet-bolt (4.0.0-1jammy) jammy
+Checksums-Sha1:
+  b7f1d1184073e3cac2c194e38dcb23112bb7eef5 38729722 puppet-bolt_4.0.0-1jammy_amd64.deb
+Checksums-Sha256:
+  b8240fb9ae2fc59797d90fba31dc7b5af983eff03a7162e607c469b6ab221566 38729722 puppet-bolt_4.0.0-1jammy_amd64.deb
+Files:
+  876abe7db39d601cc5c386e7e0facab1 38729722 default optional puppet-bolt_4.0.0-1jammy_amd64.deb

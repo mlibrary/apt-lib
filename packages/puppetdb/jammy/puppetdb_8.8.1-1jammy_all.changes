@@ -1,0 +1,17 @@
+Format: 1.8
+Date: Mon, 31 Mar 2025 15:00:00 +0000
+Source: puppetdb
+Binary: puppetdb
+Architecture: all
+Version: 8.8.1-1jammy
+Distribution: jammy
+Maintainer: Puppet Labs <info@puppetlabs.com>
+Description: Puppet Labs puppetdb
+Changes:
+ puppetdb (8.8.1-1jammy) jammy
+Checksums-Sha1:
+  73fcc51dcbb8234b57a95ac951dd6e45cae86a73 61642380 puppetdb_8.8.1-1jammy_all.deb
+Checksums-Sha256:
+  c26e63e2e9dc122e93ffa9773afaa8d4fb705532f61d5e01383bdc0aa4759cc1 61642380 puppetdb_8.8.1-1jammy_all.deb
+Files:
+  1d6a613001f1f53c79c277f9c6cf0330 61642380 default optional puppetdb_8.8.1-1jammy_all.deb

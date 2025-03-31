@@ -1,0 +1,17 @@
+Format: 1.8
+Date: Mon, 31 Mar 2025 15:00:00 +0000
+Source: puppet-agent
+Binary: puppet-agent
+Architecture: amd64
+Version: 8.10.0-1bullseye
+Distribution: bullseye
+Maintainer: Puppet Labs <info@puppetlabs.com>
+Description: The Puppet Agent package contains all of the elements needed to run puppet, including ruby and facter.
+Changes:
+ puppet-agent (8.10.0-1bullseye) bullseye
+Checksums-Sha1:
+  5790aafceffc6386f6c21430e59b66543b1c4955 36251716 puppet-agent_8.10.0-1bullseye_amd64.deb
+Checksums-Sha256:
+  228c3d49cced52666e0b15a2b512e3c2be9f326e489b7665163f2d83efc81acd 36251716 puppet-agent_8.10.0-1bullseye_amd64.deb
+Files:
+  93564a2259c841fc41dce5e5e0a37cbc 36251716 default optional puppet-agent_8.10.0-1bullseye_amd64.deb

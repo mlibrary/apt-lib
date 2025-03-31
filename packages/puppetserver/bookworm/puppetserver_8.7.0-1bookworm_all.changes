@@ -1,0 +1,17 @@
+Format: 1.8
+Date: Mon, 31 Mar 2025 15:00:00 +0000
+Source: puppetserver
+Binary: puppetserver
+Architecture: all
+Version: 8.7.0-1bookworm
+Distribution: bookworm
+Maintainer: Puppet Labs <info@puppetlabs.com>
+Description: Puppet Labs puppetserver
+Changes:
+ puppetserver (8.7.0-1bookworm) bookworm
+Checksums-Sha1:
+  eb2d197bc55767cd7254a2ab6cc92fa3c155ca36 76317516 puppetserver_8.7.0-1bookworm_all.deb
+Checksums-Sha256:
+  385f181631dbbcac5100a8d45921e7ef63b1385b390e143f34b5d0bf311680e2 76317516 puppetserver_8.7.0-1bookworm_all.deb
+Files:
+  e05bf2e9ce8e8da298daa3478fdf33e2 76317516 default optional puppetserver_8.7.0-1bookworm_all.deb

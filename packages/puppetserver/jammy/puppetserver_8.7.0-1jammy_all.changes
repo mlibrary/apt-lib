@@ -1,0 +1,17 @@
+Format: 1.8
+Date: Mon, 31 Mar 2025 15:00:00 +0000
+Source: puppetserver
+Binary: puppetserver
+Architecture: all
+Version: 8.7.0-1jammy
+Distribution: jammy
+Maintainer: Puppet Labs <info@puppetlabs.com>
+Description: Puppet Labs puppetserver
+Changes:
+ puppetserver (8.7.0-1jammy) jammy
+Checksums-Sha1:
+  70a003732d4dce54ac727f32a54430abe3b1b6f1 76318034 puppetserver_8.7.0-1jammy_all.deb
+Checksums-Sha256:
+  88d335e9c01a4f16da6cfc23d0f67a1553107d15db10c4cdf8b3d11b35d5675c 76318034 puppetserver_8.7.0-1jammy_all.deb
+Files:
+  ca9b3636adff4efb85dc38258177cf19 76318034 default optional puppetserver_8.7.0-1jammy_all.deb

@@ -1,0 +1,17 @@
+Format: 1.8
+Date: Mon, 31 Mar 2025 15:00:00 +0000
+Source: puppetdb-termini
+Binary: puppetdb-termini
+Architecture: all
+Version: 8.8.1-1bullseye
+Distribution: bullseye
+Maintainer: Puppet Labs <info@puppetlabs.com>
+Description: Termini for puppetdb
+Changes:
+ puppetdb-termini (8.8.1-1bullseye) bullseye
+Checksums-Sha1:
+  cb2f2d9d672e29f3de23cc47489d57038e04c154 22116 puppetdb-termini_8.8.1-1bullseye_all.deb
+Checksums-Sha256:
+  92f5f793b1664d00ab78edc72bd8d196fb473fcf315dd8d05d239ab9ee716108 22116 puppetdb-termini_8.8.1-1bullseye_all.deb
+Files:
+  4e6ea7bde55fb9d3977c02c48433317c 22116 default optional puppetdb-termini_8.8.1-1bullseye_all.deb

@@ -1,0 +1,17 @@
+Format: 1.8
+Date: Mon, 31 Mar 2025 15:00:00 +0000
+Source: puppet-bolt
+Binary: puppet-bolt
+Architecture: amd64
+Version: 4.0.0-1bullseye
+Distribution: bullseye
+Maintainer: Puppet Labs <info@puppetlabs.com>
+Description: Stand alone task runner
+Changes:
+ puppet-bolt (4.0.0-1bullseye) bullseye
+Checksums-Sha1:
+  67490dd8cb058da52929aae20e5d8cf0655e2a7c 38691210 puppet-bolt_4.0.0-1bullseye_amd64.deb
+Checksums-Sha256:
+  c91e88d9b3859659aeee6a294b639214942112741cab12b92c694348e25b1d19 38691210 puppet-bolt_4.0.0-1bullseye_amd64.deb
+Files:
+  df322efa5f86c4d7dde1fc59fa4d1f03 38691210 default optional puppet-bolt_4.0.0-1bullseye_amd64.deb

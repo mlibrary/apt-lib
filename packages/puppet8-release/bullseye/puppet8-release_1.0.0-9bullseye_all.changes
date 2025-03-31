@@ -1,0 +1,17 @@
+Format: 1.8
+Date: Mon, 31 Mar 2025 15:00:00 +0000
+Source: puppet8-release
+Binary: puppet8-release
+Architecture: all
+Version: 1.0.0-9bullseye
+Distribution: bullseye
+Maintainer: Puppet Labs <info@puppetlabs.com>
+Description: Release packages for the Puppet 8 repository
+Changes:
+ puppet8-release (1.0.0-9bullseye) bullseye
+Checksums-Sha1:
+  e4da95e152d227380618f46182fae369d9161e00 11532 puppet8-release_1.0.0-9bullseye_all.deb
+Checksums-Sha256:
+  e4e639df1800f8d54932531a08550ef41143dd7418aac1e630e828641041e478 11532 puppet8-release_1.0.0-9bullseye_all.deb
+Files:
+  571ac4a4272b0bec8f1dea3e38f686f5 11532 default optional puppet8-release_1.0.0-9bullseye_all.deb

@@ -1,0 +1,17 @@
+Format: 1.8
+Date: Mon, 31 Mar 2025 15:00:00 +0000
+Source: puppetserver
+Binary: puppetserver
+Architecture: all
+Version: 8.7.0-1bullseye
+Distribution: bullseye
+Maintainer: Puppet Labs <info@puppetlabs.com>
+Description: Puppet Labs puppetserver
+Changes:
+ puppetserver (8.7.0-1bullseye) bullseye
+Checksums-Sha1:
+  ec58066ebde014d9a7fbacc72510b5735874701b 76317318 puppetserver_8.7.0-1bullseye_all.deb
+Checksums-Sha256:
+  a8ff8de74394258517cf7ad5294c4d26e9dfea13db4e9c5072778ef6080ad3f2 76317318 puppetserver_8.7.0-1bullseye_all.deb
+Files:
+  3c81379cf42ea36543e423cafdb31b4c 76317318 default optional puppetserver_8.7.0-1bullseye_all.deb
