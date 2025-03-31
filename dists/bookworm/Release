@@ -1,27 +1,27 @@
 Origin: apt.lib.umich.edu
 Codename: bookworm
-Date: Wed, 19 Mar 2025 18:04:36 UTC
+Date: Mon, 31 Mar 2025 15:39:14 UTC
 Architectures: amd64 arm64
 Components: main
 Description: MLibrary Packages for Debian 12 (bookworm)
 MD5Sum:
- d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
- 7029066c27ac6f5ef18d660d5741979a 20 main/binary-amd64/Packages.gz
+ c32248715c54dd9bc0b19c2a61669913 708 main/binary-amd64/Packages
+ 41919950452016ba449c325aab8499a7 415 main/binary-amd64/Packages.gz
  d0f287364ff02eca4914af0c0647be53 118 main/binary-amd64/Release
- d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
- 7029066c27ac6f5ef18d660d5741979a 20 main/binary-arm64/Packages.gz
+ c32248715c54dd9bc0b19c2a61669913 708 main/binary-arm64/Packages
+ 41919950452016ba449c325aab8499a7 415 main/binary-arm64/Packages.gz
  b5779a2b1565bd1e690d9e91e3b1362b 118 main/binary-arm64/Release
 SHA1:
- da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-amd64/Packages
- 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-amd64/Packages.gz
+ 7ecda44db0ee30db532df78458c8ddf1f7bf1dc6 708 main/binary-amd64/Packages
+ 093308708c1f1f615e8f6e344642b9a7aab540e8 415 main/binary-amd64/Packages.gz
  8067e20154830d021ebc88d7583f887affa3aa7e 118 main/binary-amd64/Release
- da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
- 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-arm64/Packages.gz
+ 7ecda44db0ee30db532df78458c8ddf1f7bf1dc6 708 main/binary-arm64/Packages
+ 093308708c1f1f615e8f6e344642b9a7aab540e8 415 main/binary-arm64/Packages.gz
  e1b242381de91e2be6e4b134118946ac8434b66d 118 main/binary-arm64/Release
 SHA256:
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
- 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-amd64/Packages.gz
+ f96fa87b8be22a307cea5d41b73c1c4ad6f15e17f248b24d854b30f26b6fbdd4 708 main/binary-amd64/Packages
+ de0cebdcd0febd16fb1b7855f691137bc5ab4fefb0f1aedbe565fd5110c851dd 415 main/binary-amd64/Packages.gz
  b107e223e37ca6327bce5977d0470ac78552f0aeed3c440fb642dbebcdb204b9 118 main/binary-amd64/Release
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
- 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-arm64/Packages.gz
+ f96fa87b8be22a307cea5d41b73c1c4ad6f15e17f248b24d854b30f26b6fbdd4 708 main/binary-arm64/Packages
+ de0cebdcd0febd16fb1b7855f691137bc5ab4fefb0f1aedbe565fd5110c851dd 415 main/binary-arm64/Packages.gz
  0eb451b5b173dd45cef7363c17bd2ebe5bfc6ddeec59b73683aad94f8b4a1ede 118 main/binary-arm64/Release
