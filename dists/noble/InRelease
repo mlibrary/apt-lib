@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: apt.lib.umich.edu
+Codename: noble
+Date: Mon, 31 Mar 2025 17:26:21 UTC
+Architectures: amd64 arm64
+Components: main
+Description: MLibrary Packages for Ubuntu 24.04 (noble)
+MD5Sum:
+ 8513bbc7bd9ed493cfd3d76cafd5d991 1864 main/binary-amd64/Packages
+ 59943570c95a5b8b27c30ac8e574d312 859 main/binary-amd64/Packages.gz
+ 11ed45bfe3e90e3bfc5f1c7159172e27 118 main/binary-amd64/Release
+ 5ed3dd20ca778df5c4ec166b442cb8da 702 main/binary-arm64/Packages
+ d927f4122b23384fee9f02ebfb99e0f9 414 main/binary-arm64/Packages.gz
+ 991f9141c4b297836655653249929b0d 118 main/binary-arm64/Release
+SHA1:
+ bdd4bdb0281c87c06bce5aa2943998f9da42daec 1864 main/binary-amd64/Packages
+ 4cd428c1636065b5dbe329d66b4f0a340a419582 859 main/binary-amd64/Packages.gz
+ 36ae04c92d65959c505cbea67a5287564106d6cb 118 main/binary-amd64/Release
+ 7d1814e488a341623155ac8c757cca6f739dd1a6 702 main/binary-arm64/Packages
+ b1d4f5252d0a9318d80b44b9c905b160a77674c0 414 main/binary-arm64/Packages.gz
+ ea88b6f83df9c40c78b387e96db984c791f9b118 118 main/binary-arm64/Release
+SHA256:
+ 9dd1aeb541313b80b6b1bbbea34f84174df25eb330cd4f78b141a00dfca57cb7 1864 main/binary-amd64/Packages
+ 7c59db2c190bff7d26b6e2a712a4739480b726590461126c772665bae1f6f292 859 main/binary-amd64/Packages.gz
+ bc89bebd43643e185f26b0d3af8a33800e7dc51c55a72cf193dc55eb7f852b8a 118 main/binary-amd64/Release
+ 88a7c31b37bfaa309b3cc7ea1a5b02619f4df59235d4d018a26dd47c259e240d 702 main/binary-arm64/Packages
+ 54b3caab1b78c6f1cf3d7cd0f92efadc2538edf836fc1a7252b1b6add9d252d0 414 main/binary-arm64/Packages.gz
+ 8ef558b2d1d01349086d7e404a60d6ebe52f98c1e23a33bb926b85a3ad3250f9 118 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE2mz2fxnHeCzq/H2bdQVa+wqdxp8FAmfq0D0ACgkQdQVa+wqd
+xp+9Zg/8C69Zrq0M3M3zDcP8Gs/w2K5dH9/8OlwC/C99fEaGfUqE7VVVBA65kTaV
+CLCFdse/x2+qC05IyCmFqaudgpyEKYU9qIdtSGeTYwuei+5fNDr8r5wL+Sj71TLh
+CO1XliXF/6exLmPHH//Oi4ZL6hoRsVsuztpUHzi9w/BJUXYwT48O/8c0OzvUv0fo
+eBX2y+UxIrki4KOPoDHjo/OakIx8j1IEqq9JW8ma3Gre2XeegTKBwHkHyo98S8X3
+RYUQqQGySTXRJtqE7wshf/+8/lECD9Irl7iTFTB/+a3lHo45xbIvl+5CxTrj8U2P
+jF5s0pJiedLIrqM+ZxU2ipJTiHr0pWDX/aW5N1f1xjUFGwaNWM5Tkb2ShRfC/z1u
+e1NXePEmmpUNqqFYOVn7/DUicA8jfKQ5grMKLf1cEr+RBt0a1XIihXTcwe17drhi
+MqmMM5+SUlEET1XjrC1p1qrxs9uWq7ZoHQCQN0NRrqmLk6fBk2jt34PQLH44dJru
+XQxwiNkWVGcbYFbK+XKRRtcnzwatYZOhLub111Elau1thlSIgNgI9F5pBZOaFv0G
+b+ASwZdllOXQ4AfVvV0kC4QrE8O0nsFjIjz0brwOen5ncF07xJYgVJNmiU6671lh
+nTVxLmrLFeZa/X0ysSSI62m8OymDd1jQv920iSsUE9MknDLYegk=
+=wI/c
+-----END PGP SIGNATURE-----

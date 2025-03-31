@@ -1,0 +1,19 @@
+Package: puppet8-release
+Version: 1.0.0-9noble
+License: ASL 2.0
+Vendor: Puppet, Inc. <release@puppet.com>
+Architecture: all
+Maintainer: Puppet, Inc. <release@puppet.com>
+Installed-Size: 10
+Conflicts: puppet-release, puppet5-release, puppet6-release, puppet7-release
+Replaces: puppet5-release, puppet6-release, puppet7-release
+Homepage: https://www.puppet.com
+Priority: optional
+Section: default
+Filename: pool/main/p/puppet8-release/puppet8-release_1.0.0-9noble_all.deb
+Size: 11524
+SHA256: 4c4060a44fc0c8dc991780d865166cfcfcbb97ab24a3a8f589f7f9e2d0628ab7
+SHA1: 60934c08c2959c18f638c16f115f160983c26458
+MD5sum: 210a5dc8e809ce7a825faf30e9a6fa74
+Description: Release packages for the Puppet 8 repository
+

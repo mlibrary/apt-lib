@@ -1,0 +1,135 @@
+Package: puppet-agent
+Version: 8.10.0-1jammy
+Architecture: amd64
+Maintainer: Puppet Labs <info@puppetlabs.com>
+Installed-Size: 122322
+Depends: findutils, tar
+Homepage: https://www.puppetlabs.com
+Priority: optional
+Section: default
+Filename: pool/main/p/puppet-agent/puppet-agent_8.10.0-1jammy_amd64.deb
+Size: 35991090
+SHA256: 422bcdd87dbed149906fdd86115b1d13dfa3ea23f1e0ecca404466c6d4a9445a
+SHA1: 7bc60bfeee931709c18cb4f98f6333c32b30fc36
+MD5sum: 73e1725b37818675a6847ad7be0afe0a
+Description: The Puppet Agent package contains all of the elements needed to run puppet, including ruby and facter.
+ .
+ Contains the following components:
+ cleanup
+ facter 4.10.0
+ module-puppetlabs-augeas_core v1.5.0
+ module-puppetlabs-cron_core v1.3.0
+ module-puppetlabs-host_core v1.3.0
+ module-puppetlabs-mount_core v1.3.0
+ module-puppetlabs-scheduled_task v3.2.0
+ module-puppetlabs-selinux_core v1.4.0
+ module-puppetlabs-sshkeys_core v2.5.0
+ module-puppetlabs-yumrepo_core v2.1.0
+ module-puppetlabs-zfs_core v1.6.1
+ module-puppetlabs-zone_core v1.2.0
+ puppet 8.10.0
+ puppet-resource_api 1.9.0
+ puppet-runtime 202410140
+ pxp-agent 202410141
+ shellpath 2023-02-15
+ wrapper-script
+
+Package: puppet-bolt
+Version: 4.0.0-1jammy
+Architecture: amd64
+Maintainer: Puppet, Inc. <info@puppet.com>
+Installed-Size: 119833
+Homepage: https://www.puppet.com
+Priority: optional
+Section: default
+Filename: pool/main/p/puppet-bolt/puppet-bolt_4.0.0-1jammy_amd64.deb
+Size: 38729722
+SHA256: b8240fb9ae2fc59797d90fba31dc7b5af983eff03a7162e607c469b6ab221566
+SHA1: b7f1d1184073e3cac2c194e38dcb23112bb7eef5
+MD5sum: 876abe7db39d601cc5c386e7e0facab1
+Description: Stand alone task runner
+ .
+ Contains the following components:
+ bolt 4.0.0
+ bolt-create-ruby-tarballs
+ bolt-runtime 202411130
+ gem-prune
+
+Package: puppet8-release
+Version: 1.0.0-9jammy
+License: ASL 2.0
+Vendor: Puppet, Inc. <release@puppet.com>
+Architecture: all
+Maintainer: Puppet, Inc. <release@puppet.com>
+Installed-Size: 10
+Conflicts: puppet-release, puppet5-release, puppet6-release, puppet7-release
+Replaces: puppet5-release, puppet6-release, puppet7-release
+Homepage: https://www.puppet.com
+Priority: optional
+Section: default
+Filename: pool/main/p/puppet8-release/puppet8-release_1.0.0-9jammy_all.deb
+Size: 11530
+SHA256: 960bf4de8a408bd2d264d3a2aee0e97c7cb54f89bffcd95df984aad58f0b3f4e
+SHA1: f3c3a33d7c9be431da6bf5b529180d196e626327
+MD5sum: 460d6653939a0e65b6e4e72672c846ac
+Description: Release packages for the Puppet 8 repository
+
+Package: puppetdb
+Version: 8.8.1-1jammy
+License: ASL 2.0
+Vendor: Puppet Labs <info@puppetlabs.com>
+Architecture: all
+Maintainer: Puppet Labs <info@puppetlabs.com>
+Installed-Size: 67577
+Depends: openjdk-17-jre-headless | openjdk-11-jre-headless, bash, net-tools, adduser, procps, puppet-agent (>= 5.99.0)
+Build-Depends: cdbs, bc, mawk, lsb-release, ruby | ruby-interpreter
+Homepage: http://puppet.com
+Priority: optional
+Section: default
+Filename: pool/main/p/puppetdb/puppetdb_8.8.1-1jammy_all.deb
+Size: 61642380
+SHA256: c26e63e2e9dc122e93ffa9773afaa8d4fb705532f61d5e01383bdc0aa4759cc1
+SHA1: 73fcc51dcbb8234b57a95ac951dd6e45cae86a73
+MD5sum: 1d6a613001f1f53c79c277f9c6cf0330
+Description: Puppet Labs puppetdb
+ Contains: Puppet-integrated catalog and fact storage (puppetlabs/puppetdb 8.8.1,org.bouncycastle/bcpkix-jdk18on 1.78.1,org.clojure/clojure 1.11.2,puppetlabs/puppetdb 8.8.1)
+
+Package: puppetdb-termini
+Version: 8.8.1-1jammy
+License: ASL 2.0
+Vendor: Puppet Labs <info@puppetlabs.com>
+Architecture: all
+Maintainer: Puppet Labs <info@puppetlabs.com>
+Installed-Size: 74
+Depends: puppet-agent
+Homepage: http://puppet.com
+Priority: optional
+Section: default
+Filename: pool/main/p/puppetdb-termini/puppetdb-termini_8.8.1-1jammy_all.deb
+Size: 22114
+SHA256: c05e2620b3057002abe50bd17365f2df5d49d1946af89309efb11db12333da94
+SHA1: a374632a8e7b11d3104fe35dea3a1abe8393526c
+MD5sum: f4585519d6efca89598c80d37dc78827
+Description: Termini for puppetdb
+ Contains terminus for:puppetdb (version 8.8.1)
+
+Package: puppetserver
+Version: 8.7.0-1jammy
+License: ASL 2.0
+Vendor: Puppet Labs <info@puppetlabs.com>
+Architecture: all
+Maintainer: Puppet Labs <info@puppetlabs.com>
+Installed-Size: 98021
+Depends: openjdk-17-jre-headless | openjdk-11-jre-headless, bash, net-tools, adduser, procps, puppet-agent (>= 6.16.0)
+Build-Depends: cdbs, bc, mawk, lsb-release, ruby | ruby-interpreter
+Homepage: http://puppet.com
+Priority: optional
+Section: default
+Filename: pool/main/p/puppetserver/puppetserver_8.7.0-1jammy_all.deb
+Size: 76318034
+SHA256: 88d335e9c01a4f16da6cfc23d0f67a1553107d15db10c4cdf8b3d11b35d5675c
+SHA1: 70a003732d4dce54ac727f32a54430abe3b1b6f1
+MD5sum: ca9b3636adff4efb85dc38258177cf19
+Description: Puppet Labs puppetserver
+ Contains: Puppet Server (puppetlabs/puppetserver 8.7.0,org.clojure/clojure 1.11.2,org.bouncycastle/bcpkix-jdk18on 1.78.1,puppetlabs/jruby-utils 5.2.0,puppetlabs/puppetserver 8.7.0,com.puppetlabs/trapperkeeper-webserver-jetty10 1.0.18,puppetlabs/trapperkeeper-metrics 2.0.4)
+

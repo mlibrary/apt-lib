@@ -1,0 +1,55 @@
+Package: puppet-agent
+Version: 8.10.0-1noble
+Architecture: amd64
+Maintainer: Puppet Labs <info@puppetlabs.com>
+Installed-Size: 122361
+Depends: findutils, tar
+Homepage: https://www.puppetlabs.com
+Priority: optional
+Section: default
+Filename: pool/main/p/puppet-agent/puppet-agent_8.10.0-1noble_amd64.deb
+Size: 36044200
+SHA256: fa4f69dc46f0e1135737242718c63db7306d408954a428027a104a55d23c4972
+SHA1: f62c98c8235eb5b8ae5ed9be982f9bc0b7740940
+MD5sum: bc1c34e2af0d6769fc0218ffe62dea94
+Description: The Puppet Agent package contains all of the elements needed to run puppet, including ruby and facter.
+ .
+ Contains the following components:
+ cleanup
+ facter 4.10.0
+ module-puppetlabs-augeas_core v1.5.0
+ module-puppetlabs-cron_core v1.3.0
+ module-puppetlabs-host_core v1.3.0
+ module-puppetlabs-mount_core v1.3.0
+ module-puppetlabs-scheduled_task v3.2.0
+ module-puppetlabs-selinux_core v1.4.0
+ module-puppetlabs-sshkeys_core v2.5.0
+ module-puppetlabs-yumrepo_core v2.1.0
+ module-puppetlabs-zfs_core v1.6.1
+ module-puppetlabs-zone_core v1.2.0
+ puppet 8.10.0
+ puppet-resource_api 1.9.0
+ puppet-runtime 202410140
+ pxp-agent 202410141
+ shellpath 2023-02-15
+ wrapper-script
+
+Package: puppet8-release
+Version: 1.0.0-9noble
+License: ASL 2.0
+Vendor: Puppet, Inc. <release@puppet.com>
+Architecture: all
+Maintainer: Puppet, Inc. <release@puppet.com>
+Installed-Size: 10
+Conflicts: puppet-release, puppet5-release, puppet6-release, puppet7-release
+Replaces: puppet5-release, puppet6-release, puppet7-release
+Homepage: https://www.puppet.com
+Priority: optional
+Section: default
+Filename: pool/main/p/puppet8-release/puppet8-release_1.0.0-9noble_all.deb
+Size: 11524
+SHA256: 4c4060a44fc0c8dc991780d865166cfcfcbb97ab24a3a8f589f7f9e2d0628ab7
+SHA1: 60934c08c2959c18f638c16f115f160983c26458
+MD5sum: 210a5dc8e809ce7a825faf30e9a6fa74
+Description: Release packages for the Puppet 8 repository
+

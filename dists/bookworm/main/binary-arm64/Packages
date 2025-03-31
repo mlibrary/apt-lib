@@ -17,3 +17,62 @@ SHA1: afb9e96b8d7502b5a5bcec7ce962efe82f9166da
 MD5sum: ecf96584d9bf027982efd64e5f164281
 Description: Release packages for the Puppet 8 repository
 
+Package: puppetdb
+Version: 8.8.1-1bookworm
+License: ASL 2.0
+Vendor: Puppet Labs <info@puppetlabs.com>
+Architecture: all
+Maintainer: Puppet Labs <info@puppetlabs.com>
+Installed-Size: 67577
+Depends: openjdk-17-jre-headless | openjdk-11-jre-headless, bash, net-tools, adduser, procps, puppet-agent (>= 5.99.0)
+Build-Depends: cdbs, bc, mawk, lsb-release, ruby | ruby-interpreter
+Homepage: http://puppet.com
+Priority: optional
+Section: default
+Filename: pool/main/p/puppetdb/puppetdb_8.8.1-1bookworm_all.deb
+Size: 61642374
+SHA256: f1b78c5f0ad40b52e4b6eb3002ed09f946e438a243f61583f7becf430caf14e4
+SHA1: b74620c65f032191db9603164617835ccd187277
+MD5sum: 2f4f8783c406c9a14fd7704f60738ce5
+Description: Puppet Labs puppetdb
+ Contains: Puppet-integrated catalog and fact storage (puppetlabs/puppetdb 8.8.1,org.bouncycastle/bcpkix-jdk18on 1.78.1,org.clojure/clojure 1.11.2,puppetlabs/puppetdb 8.8.1)
+
+Package: puppetdb-termini
+Version: 8.8.1-1bookworm
+License: ASL 2.0
+Vendor: Puppet Labs <info@puppetlabs.com>
+Architecture: all
+Maintainer: Puppet Labs <info@puppetlabs.com>
+Installed-Size: 74
+Depends: puppet-agent
+Homepage: http://puppet.com
+Priority: optional
+Section: default
+Filename: pool/main/p/puppetdb-termini/puppetdb-termini_8.8.1-1bookworm_all.deb
+Size: 22122
+SHA256: 6218fa5289453ffabc248cbe44da6f9b41249097624c1e13ea6bd281357021a2
+SHA1: 1d0520a35d7a3fd8e92a59906e2a0215dd9e4b73
+MD5sum: acbd03237354da9fe324123eda372627
+Description: Termini for puppetdb
+ Contains terminus for:puppetdb (version 8.8.1)
+
+Package: puppetserver
+Version: 8.7.0-1bookworm
+License: ASL 2.0
+Vendor: Puppet Labs <info@puppetlabs.com>
+Architecture: all
+Maintainer: Puppet Labs <info@puppetlabs.com>
+Installed-Size: 98021
+Depends: openjdk-17-jre-headless | openjdk-11-jre-headless, bash, net-tools, adduser, procps, puppet-agent (>= 6.16.0)
+Build-Depends: cdbs, bc, mawk, lsb-release, ruby | ruby-interpreter
+Homepage: http://puppet.com
+Priority: optional
+Section: default
+Filename: pool/main/p/puppetserver/puppetserver_8.7.0-1bookworm_all.deb
+Size: 76317516
+SHA256: 385f181631dbbcac5100a8d45921e7ef63b1385b390e143f34b5d0bf311680e2
+SHA1: eb2d197bc55767cd7254a2ab6cc92fa3c155ca36
+MD5sum: e05bf2e9ce8e8da298daa3478fdf33e2
+Description: Puppet Labs puppetserver
+ Contains: Puppet Server (puppetlabs/puppetserver 8.7.0,org.clojure/clojure 1.11.2,org.bouncycastle/bcpkix-jdk18on 1.78.1,puppetlabs/jruby-utils 5.2.0,puppetlabs/puppetserver 8.7.0,com.puppetlabs/trapperkeeper-webserver-jetty10 1.0.18,puppetlabs/trapperkeeper-metrics 2.0.4)
+

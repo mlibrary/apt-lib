@@ -1,3 +1,60 @@
+Package: puppet-agent
+Version: 8.10.0-1bookworm
+Architecture: amd64
+Maintainer: Puppet Labs <info@puppetlabs.com>
+Installed-Size: 121705
+Depends: findutils, tar
+Homepage: https://www.puppetlabs.com
+Priority: optional
+Section: default
+Filename: pool/main/p/puppet-agent/puppet-agent_8.10.0-1bookworm_amd64.deb
+Size: 35840976
+SHA256: 68bc4c70c27d8ae3961bde8d8c2bd195cb432befb312a12b7fe4deacc9c0283a
+SHA1: 9e5a285e69dd65ca34c307f1a7bc3b87b156de15
+MD5sum: 923414bb4378dafddbf8c8dc9ef0711f
+Description: The Puppet Agent package contains all of the elements needed to run puppet, including ruby and facter.
+ .
+ Contains the following components:
+ cleanup
+ facter 4.10.0
+ module-puppetlabs-augeas_core v1.5.0
+ module-puppetlabs-cron_core v1.3.0
+ module-puppetlabs-host_core v1.3.0
+ module-puppetlabs-mount_core v1.3.0
+ module-puppetlabs-scheduled_task v3.2.0
+ module-puppetlabs-selinux_core v1.4.0
+ module-puppetlabs-sshkeys_core v2.5.0
+ module-puppetlabs-yumrepo_core v2.1.0
+ module-puppetlabs-zfs_core v1.6.1
+ module-puppetlabs-zone_core v1.2.0
+ puppet 8.10.0
+ puppet-resource_api 1.9.0
+ puppet-runtime 202410140
+ pxp-agent 202410141
+ shellpath 2023-02-15
+ wrapper-script
+
+Package: puppet-bolt
+Version: 4.0.0-1bookworm
+Architecture: amd64
+Maintainer: Puppet, Inc. <info@puppet.com>
+Installed-Size: 118951
+Homepage: https://www.puppet.com
+Priority: optional
+Section: default
+Filename: pool/main/p/puppet-bolt/puppet-bolt_4.0.0-1bookworm_amd64.deb
+Size: 38555850
+SHA256: a39ab456b7fbe5b7c5b78068a142dadd3e5f14ffe24a8fa4f8b3ac8fd7da8d10
+SHA1: feaa41d9318a5eb313af973bcbf335d704a188fd
+MD5sum: 5c948930a99dd759bc3b34c594a4fab4
+Description: Stand alone task runner
+ .
+ Contains the following components:
+ bolt 4.0.0
+ bolt-create-ruby-tarballs
+ bolt-runtime 202411130
+ gem-prune
+
 Package: puppet8-release
 Version: 1.0.0-9bookworm
 License: ASL 2.0
@@ -16,4 +73,63 @@ SHA256: 7caa9f2ddfdac897846f85448c086eaef637b2293ba3a24941eea5d53cca6158
 SHA1: afb9e96b8d7502b5a5bcec7ce962efe82f9166da
 MD5sum: ecf96584d9bf027982efd64e5f164281
 Description: Release packages for the Puppet 8 repository
+
+Package: puppetdb
+Version: 8.8.1-1bookworm
+License: ASL 2.0
+Vendor: Puppet Labs <info@puppetlabs.com>
+Architecture: all
+Maintainer: Puppet Labs <info@puppetlabs.com>
+Installed-Size: 67577
+Depends: openjdk-17-jre-headless | openjdk-11-jre-headless, bash, net-tools, adduser, procps, puppet-agent (>= 5.99.0)
+Build-Depends: cdbs, bc, mawk, lsb-release, ruby | ruby-interpreter
+Homepage: http://puppet.com
+Priority: optional
+Section: default
+Filename: pool/main/p/puppetdb/puppetdb_8.8.1-1bookworm_all.deb
+Size: 61642374
+SHA256: f1b78c5f0ad40b52e4b6eb3002ed09f946e438a243f61583f7becf430caf14e4
+SHA1: b74620c65f032191db9603164617835ccd187277
+MD5sum: 2f4f8783c406c9a14fd7704f60738ce5
+Description: Puppet Labs puppetdb
+ Contains: Puppet-integrated catalog and fact storage (puppetlabs/puppetdb 8.8.1,org.bouncycastle/bcpkix-jdk18on 1.78.1,org.clojure/clojure 1.11.2,puppetlabs/puppetdb 8.8.1)
+
+Package: puppetdb-termini
+Version: 8.8.1-1bookworm
+License: ASL 2.0
+Vendor: Puppet Labs <info@puppetlabs.com>
+Architecture: all
+Maintainer: Puppet Labs <info@puppetlabs.com>
+Installed-Size: 74
+Depends: puppet-agent
+Homepage: http://puppet.com
+Priority: optional
+Section: default
+Filename: pool/main/p/puppetdb-termini/puppetdb-termini_8.8.1-1bookworm_all.deb
+Size: 22122
+SHA256: 6218fa5289453ffabc248cbe44da6f9b41249097624c1e13ea6bd281357021a2
+SHA1: 1d0520a35d7a3fd8e92a59906e2a0215dd9e4b73
+MD5sum: acbd03237354da9fe324123eda372627
+Description: Termini for puppetdb
+ Contains terminus for:puppetdb (version 8.8.1)
+
+Package: puppetserver
+Version: 8.7.0-1bookworm
+License: ASL 2.0
+Vendor: Puppet Labs <info@puppetlabs.com>
+Architecture: all
+Maintainer: Puppet Labs <info@puppetlabs.com>
+Installed-Size: 98021
+Depends: openjdk-17-jre-headless | openjdk-11-jre-headless, bash, net-tools, adduser, procps, puppet-agent (>= 6.16.0)
+Build-Depends: cdbs, bc, mawk, lsb-release, ruby | ruby-interpreter
+Homepage: http://puppet.com
+Priority: optional
+Section: default
+Filename: pool/main/p/puppetserver/puppetserver_8.7.0-1bookworm_all.deb
+Size: 76317516
+SHA256: 385f181631dbbcac5100a8d45921e7ef63b1385b390e143f34b5d0bf311680e2
+SHA1: eb2d197bc55767cd7254a2ab6cc92fa3c155ca36
+MD5sum: e05bf2e9ce8e8da298daa3478fdf33e2
+Description: Puppet Labs puppetserver
+ Contains: Puppet Server (puppetlabs/puppetserver 8.7.0,org.clojure/clojure 1.11.2,org.bouncycastle/bcpkix-jdk18on 1.78.1,puppetlabs/jruby-utils 5.2.0,puppetlabs/puppetserver 8.7.0,com.puppetlabs/trapperkeeper-webserver-jetty10 1.0.18,puppetlabs/trapperkeeper-metrics 2.0.4)
 
