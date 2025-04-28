@@ -1,22 +1,3 @@
-Package: puppet8-release
-Version: 1.0.0-9jammy
-License: ASL 2.0
-Vendor: Puppet, Inc. <release@puppet.com>
-Architecture: all
-Maintainer: Puppet, Inc. <release@puppet.com>
-Installed-Size: 10
-Conflicts: puppet-release, puppet5-release, puppet6-release, puppet7-release
-Replaces: puppet5-release, puppet6-release, puppet7-release
-Homepage: https://www.puppet.com
-Priority: optional
-Section: default
-Filename: pool/main/p/puppet8-release/puppet8-release_1.0.0-9jammy_all.deb
-Size: 11530
-SHA256: 960bf4de8a408bd2d264d3a2aee0e97c7cb54f89bffcd95df984aad58f0b3f4e
-SHA1: f3c3a33d7c9be431da6bf5b529180d196e626327
-MD5sum: 460d6653939a0e65b6e4e72672c846ac
-Description: Release packages for the Puppet 8 repository
-
 Package: puppetdb
 Version: 8.8.1-1jammy
 License: ASL 2.0

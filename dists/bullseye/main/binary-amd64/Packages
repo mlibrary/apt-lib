@@ -114,25 +114,6 @@ Description: Stand alone task runner
  bolt-runtime 202411130
  gem-prune
 
-Package: puppet8-release
-Version: 1.0.0-9bullseye
-License: ASL 2.0
-Vendor: Puppet, Inc. <release@puppet.com>
-Architecture: all
-Maintainer: Puppet, Inc. <release@puppet.com>
-Installed-Size: 10
-Conflicts: puppet-release, puppet5-release, puppet6-release, puppet7-release
-Replaces: puppet5-release, puppet6-release, puppet7-release
-Homepage: https://www.puppet.com
-Priority: optional
-Section: default
-Filename: pool/main/p/puppet8-release/puppet8-release_1.0.0-9bullseye_all.deb
-Size: 11532
-SHA256: e4e639df1800f8d54932531a08550ef41143dd7418aac1e630e828641041e478
-SHA1: e4da95e152d227380618f46182fae369d9161e00
-MD5sum: 571ac4a4272b0bec8f1dea3e38f686f5
-Description: Release packages for the Puppet 8 repository
-
 Package: puppetdb
 Version: 8.8.1-1bullseye
 License: ASL 2.0

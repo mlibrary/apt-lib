@@ -1,22 +1,3 @@
-Package: puppet8-release
-Version: 1.0.0-9bookworm
-License: ASL 2.0
-Vendor: Puppet, Inc. <release@puppet.com>
-Architecture: all
-Maintainer: Puppet, Inc. <release@puppet.com>
-Installed-Size: 10
-Conflicts: puppet-release, puppet5-release, puppet6-release, puppet7-release
-Replaces: puppet5-release, puppet6-release, puppet7-release
-Homepage: https://www.puppet.com
-Priority: optional
-Section: default
-Filename: pool/main/p/puppet8-release/puppet8-release_1.0.0-9bookworm_all.deb
-Size: 11542
-SHA256: 7caa9f2ddfdac897846f85448c086eaef637b2293ba3a24941eea5d53cca6158
-SHA1: afb9e96b8d7502b5a5bcec7ce962efe82f9166da
-MD5sum: ecf96584d9bf027982efd64e5f164281
-Description: Release packages for the Puppet 8 repository
-
 Package: puppetdb
 Version: 8.8.1-1bookworm
 License: ASL 2.0
