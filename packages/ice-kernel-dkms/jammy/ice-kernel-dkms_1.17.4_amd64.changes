@@ -3,7 +3,7 @@ Date: Thu, 26 Jun 2025 11:00:00 -0400
 Source: ice-kernel-dkms
 Binary: ice-kernel-dkms
 Built-For-Profiles: noudeb
-Architecture: source amd64
+Architecture: amd64
 Version: 1.17.4
 Distribution: jammy
 Urgency: medium
