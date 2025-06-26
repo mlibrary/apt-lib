@@ -1,26 +1,26 @@
 Origin: apt.lib.umich.edu
 Codename: jammy
-Date: Mon, 28 Apr 2025 23:11:44 UTC
+Date: Thu, 26 Jun 2025 19:12:16 UTC
 Architectures: amd64 arm64
 Components: main
 Description: MLibrary Packages for Ubuntu 22.04 (jammy)
 MD5Sum:
- 5ab82b0e2a51fb7f2d07c95545e1a735 4246 main/binary-amd64/Packages
- a14d3419a078ec510e10778661f2dff7 1543 main/binary-amd64/Packages.gz
+ 8444aac3b81a4dd77ee4702a193ea6fe 4760 main/binary-amd64/Packages
+ a403acb9cdf9a435861781257e1cc4d3 1779 main/binary-amd64/Packages.gz
  c6a50e6324ba7788e81990edd46aa914 118 main/binary-amd64/Release
  276667a9abb15cd31f5a82c477389b61 2490 main/binary-arm64/Packages
  4cf9cf692675324cfcf17353d2bdb4f7 937 main/binary-arm64/Packages.gz
  5d60d0033093a0c841380a25fc23b3c6 118 main/binary-arm64/Release
 SHA1:
- 466d55963243da66139421d62a8f62b1e9b6804a 4246 main/binary-amd64/Packages
- 1570b3f10afb3710f64cbd0b7aa59caaee51aa38 1543 main/binary-amd64/Packages.gz
+ 462f503abf152cd35d2d9df1974fa9e4bde1a6b1 4760 main/binary-amd64/Packages
+ 94bed723d5ff0ce7bb0aa5198e18d9dd9b3063c7 1779 main/binary-amd64/Packages.gz
  6825d4024935aab164e91f5f174b3044093ab39e 118 main/binary-amd64/Release
  27a29cfe515d4b0cdff9202254bd49c9602ad7a3 2490 main/binary-arm64/Packages
  ffde9c4ff9b9eba5c46889cd5ba88ce4aeeba35c 937 main/binary-arm64/Packages.gz
  fc725776f7ad6d5d02218c1d17d7bd611dfbfbe1 118 main/binary-arm64/Release
 SHA256:
- eb6b6ac981588631a12eaeb00c1a6f3e57316474d06d17a7aeae2a5b06333cf3 4246 main/binary-amd64/Packages
- 0ca1295859b1b63b82c9554338650000b0f2a6105e4eff7e92af9a63364b4514 1543 main/binary-amd64/Packages.gz
+ 18079f40fcb9263c144168357a1e024926f271a20ffe77d10b74fbfaee876925 4760 main/binary-amd64/Packages
+ 679834852e0af770d00e4ad0e93d6349217e38f4337a5484e2fe674d74960814 1779 main/binary-amd64/Packages.gz
  a6d6b6d41455a208fa5c5848a21642e8027745ccf2c03be9ab34734fa23451d0 118 main/binary-amd64/Release
  54190ffe5babdf61a40a69bdf24c085d1498d9ca4e2604af0a84d219ee5f4490 2490 main/binary-arm64/Packages
  d4028974fac5ef12fa3cf47b4329c9c7e7eb1d41cce2cc788e2834520ebb3ac4 937 main/binary-arm64/Packages.gz
