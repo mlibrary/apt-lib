@@ -16,17 +16,8 @@ Changes:
  .
    * Initial package.
 Checksums-Sha1:
- 97d0d71837d2dd5687275454b6042fc1960cc791 580 ice-kernel-dkms_1.17.4.dsc
- 701b71d1cb8bbbd8419094bfe4a00d80b6f43714 2523204 ice-kernel-dkms_1.17.4.tar.xz
- d1c68bbf571b8a73e1dddd2dcdafbb4d72c4f50e 8476 ice-kernel-dkms_1.17.4_amd64.buildinfo
  cca21331dd3dcb830bddc7fa28e5d734c86ce81d 1080668 ice-kernel-dkms_1.17.4_amd64.deb
 Checksums-Sha256:
- 182ec4c7c5f5f7efcd495af1305b581fd42b8dc84adf385b288c1837d955a8f9 580 ice-kernel-dkms_1.17.4.dsc
- a1bd0919b9d4d7390ffde7eb4b61db0513703c88378b44731db4ca587d44629b 2523204 ice-kernel-dkms_1.17.4.tar.xz
- 047663e56f5223be9c5699b15fdcec56e7c6290dfb9ac116aebfbe3b148c356b 8476 ice-kernel-dkms_1.17.4_amd64.buildinfo
  878b28fea51a78f873d03f8fcef2a9ad9e1c5fe66318948a717e53733b6fb68b 1080668 ice-kernel-dkms_1.17.4_amd64.deb
 Files:
- 7ab98b47767b17f55a37eff43455ec12 580 mlit/kernel optional ice-kernel-dkms_1.17.4.dsc
- 3e6889162d3781d3a96b317dcb2434f2 2523204 mlit/kernel optional ice-kernel-dkms_1.17.4.tar.xz
- 045cd8715ac9e79d6f883a53e5f8c1e8 8476 mlit/kernel optional ice-kernel-dkms_1.17.4_amd64.buildinfo
  e6752bcaf52d219cddad97d341806a19 1080668 mlit/kernel optional ice-kernel-dkms_1.17.4_amd64.deb
