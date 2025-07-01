@@ -16,11 +16,8 @@ Changes:
  .
    * Initial package.
 Checksums-Sha1:
- 4f6ffea86f926ab15499e8c49a501ed8638b8607 8226 ice-kernel-dkms_1.17.4_all.buildinfo
  0774d07469cb9300ea09b404e9b54e4b1e63f632 1080588 ice-kernel-dkms_1.17.4_all.deb
 Checksums-Sha256:
- bf2596a61035c76b0de255715b7e00085cee1873a6406135c90d4b386bd4b421 8226 ice-kernel-dkms_1.17.4_all.buildinfo
  49c9bf2cb059755d36248c091ac2e04d80f4f656aa9ce5eaccb0a3d8e31639f4 1080588 ice-kernel-dkms_1.17.4_all.deb
 Files:
- e5c66702f84f71acdf12965a2a3c2b65 8226 mlit/kernel optional ice-kernel-dkms_1.17.4_all.buildinfo
  a20a90f9b183afd95480c1eb96804202 1080588 mlit/kernel optional ice-kernel-dkms_1.17.4_all.deb
