@@ -1,6 +1,6 @@
 Origin: apt.lib.umich.edu
 Codename: bookworm
-Date: Thu, 26 Jun 2025 19:42:44 UTC
+Date: Tue, 01 Jul 2025 15:50:12 UTC
 Architectures: amd64 arm64
 Components: main
 Description: MLibrary Packages for Debian 12 (bookworm)

@@ -1,27 +1,27 @@
 Origin: apt.lib.umich.edu
 Codename: jammy
-Date: Thu, 26 Jun 2025 19:42:44 UTC
+Date: Tue, 01 Jul 2025 15:50:12 UTC
 Architectures: amd64 arm64
 Components: main
 Description: MLibrary Packages for Ubuntu 22.04 (jammy)
 MD5Sum:
- 8444aac3b81a4dd77ee4702a193ea6fe 4760 main/binary-amd64/Packages
- a403acb9cdf9a435861781257e1cc4d3 1779 main/binary-amd64/Packages.gz
+ 866dfa77b66d77aacd7981fe3ce161d5 4756 main/binary-amd64/Packages
+ 3f8e3156c5476f509e2824152b65cba6 1779 main/binary-amd64/Packages.gz
  c6a50e6324ba7788e81990edd46aa914 118 main/binary-amd64/Release
- 276667a9abb15cd31f5a82c477389b61 2490 main/binary-arm64/Packages
- 4cf9cf692675324cfcf17353d2bdb4f7 937 main/binary-arm64/Packages.gz
+ 0ba76c0d583792482ae22e8dec6dce59 3000 main/binary-arm64/Packages
+ e4f95b6fcc1e90639d61dc76ba73bac9 1168 main/binary-arm64/Packages.gz
  5d60d0033093a0c841380a25fc23b3c6 118 main/binary-arm64/Release
 SHA1:
- 462f503abf152cd35d2d9df1974fa9e4bde1a6b1 4760 main/binary-amd64/Packages
- 94bed723d5ff0ce7bb0aa5198e18d9dd9b3063c7 1779 main/binary-amd64/Packages.gz
+ dbd79ec2066956ce7369cf26911cdfea4bbe5edf 4756 main/binary-amd64/Packages
+ 23884fb86d5294aabc8619685004ffb51032da7b 1779 main/binary-amd64/Packages.gz
  6825d4024935aab164e91f5f174b3044093ab39e 118 main/binary-amd64/Release
- 27a29cfe515d4b0cdff9202254bd49c9602ad7a3 2490 main/binary-arm64/Packages
- ffde9c4ff9b9eba5c46889cd5ba88ce4aeeba35c 937 main/binary-arm64/Packages.gz
+ 1cea84bc10d859ef41eda4b95bfd092fef0f6488 3000 main/binary-arm64/Packages
+ 0e875053bc8b29b47d2e54defdc782609029ed6b 1168 main/binary-arm64/Packages.gz
  fc725776f7ad6d5d02218c1d17d7bd611dfbfbe1 118 main/binary-arm64/Release
 SHA256:
- 18079f40fcb9263c144168357a1e024926f271a20ffe77d10b74fbfaee876925 4760 main/binary-amd64/Packages
- 679834852e0af770d00e4ad0e93d6349217e38f4337a5484e2fe674d74960814 1779 main/binary-amd64/Packages.gz
+ 9ae88f48411ed6ac00c0e2f3fb835c6f069224d0638fed4daba0c3765b8e0f2a 4756 main/binary-amd64/Packages
+ ffc57552ab905a5eaf824a13e126809cdefd0f54e6ba6cc505555399148212fa 1779 main/binary-amd64/Packages.gz
  a6d6b6d41455a208fa5c5848a21642e8027745ccf2c03be9ab34734fa23451d0 118 main/binary-amd64/Release
- 54190ffe5babdf61a40a69bdf24c085d1498d9ca4e2604af0a84d219ee5f4490 2490 main/binary-arm64/Packages
- d4028974fac5ef12fa3cf47b4329c9c7e7eb1d41cce2cc788e2834520ebb3ac4 937 main/binary-arm64/Packages.gz
+ d6b7549168ea69b0047cfef6620bb5778ac346facfb7e60cce50b57ce091c3b6 3000 main/binary-arm64/Packages
+ f02ec69d586018771fe640566c71cb0630cff74bcde41030b70f70d24b930f7d 1168 main/binary-arm64/Packages.gz
  a9b36f9248d0b9c38de08a8f2441ff7d99726d55c198010dde0f8dbb331a7d58 118 main/binary-arm64/Release

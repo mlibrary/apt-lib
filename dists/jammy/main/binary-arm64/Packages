@@ -1,3 +1,18 @@
+Package: ice-kernel-dkms
+Version: 1.17.4
+Architecture: all
+Maintainer: "University of Michigan Library IT" <lit-noreply@umich.edu>
+Installed-Size: 7682
+Depends: dkms (>= 2.1.0.0)
+Priority: optional
+Section: mlit/kernel
+Filename: pool/main/i/ice-kernel-dkms/ice-kernel-dkms_1.17.4_all.deb
+Size: 1080588
+SHA256: 49c9bf2cb059755d36248c091ac2e04d80f4f656aa9ce5eaccb0a3d8e31639f4
+SHA1: 0774d07469cb9300ea09b404e9b54e4b1e63f632
+MD5sum: a20a90f9b183afd95480c1eb96804202
+Description: Intel Ethernet 800 Series driver
+
 Package: puppetdb
 Version: 8.8.1-1jammy
 License: ASL 2.0
