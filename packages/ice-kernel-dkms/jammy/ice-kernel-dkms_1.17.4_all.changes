@@ -1,5 +1,5 @@
 Format: 1.8
-Date: Thu, 26 Jun 2025 11:00:00 -0400
+Date: Mon, 11 Aug 2025 12:08:02 -0400
 Source: ice-kernel-dkms
 Binary: ice-kernel-dkms
 Built-For-Profiles: noudeb
@@ -8,16 +8,20 @@ Version: 1.17.4
 Distribution: jammy
 Urgency: medium
 Maintainer: "University of Michigan Library IT" <lit-noreply@umich.edu>
-Changed-By: University of Michigan Library IT <lit-noreply@umich.edu>
+Changed-By: Anthony Thomas <antmoth@ae-bucknell>
 Description:
  ice-kernel-dkms - Intel Ethernet 800 Series driver
 Changes:
  ice-kernel-dkms (1.17.4) jammy; urgency=medium
  .
-   * Initial package.
+   * Added dkms to the regular depends (this should let it rebuild on new
+     kernel install?)
 Checksums-Sha1:
- 0774d07469cb9300ea09b404e9b54e4b1e63f632 1080588 ice-kernel-dkms_1.17.4_all.deb
+ 84b13b23790526c2d17e1cd082a5e47a77613093 8226 ice-kernel-dkms_1.17.4_all.buildinfo
+ 80fa35c2274a05f12aa325ddae1e8f6c5399686c 1080780 ice-kernel-dkms_1.17.4_all.deb
 Checksums-Sha256:
- 49c9bf2cb059755d36248c091ac2e04d80f4f656aa9ce5eaccb0a3d8e31639f4 1080588 ice-kernel-dkms_1.17.4_all.deb
+ d92d55c747667bf8aadc2f63715f095d6a4dd9ef76ee95b26dc9bba8454d18cb 8226 ice-kernel-dkms_1.17.4_all.buildinfo
+ 1bf0dc163b177d9cc7f78e99ed99c9e659a25c60fb7817d74423f8179944ca4d 1080780 ice-kernel-dkms_1.17.4_all.deb
 Files:
- a20a90f9b183afd95480c1eb96804202 1080588 mlit/kernel optional ice-kernel-dkms_1.17.4_all.deb
+ 8fddcfcb8b4093c3fc63f3e07bba0737 8226 mlit/kernel optional ice-kernel-dkms_1.17.4_all.buildinfo
+ 20b5c6453c95d3dc8ac1e9624f21bc83 1080780 mlit/kernel optional ice-kernel-dkms_1.17.4_all.deb
