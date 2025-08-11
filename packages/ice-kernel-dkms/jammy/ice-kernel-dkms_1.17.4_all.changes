@@ -16,12 +16,14 @@ Changes:
  .
    * Added dkms to the regular depends (this should let it rebuild on new
      kernel install?)
+   * Added BUILD_KERNEL to Make command (does not use default KERNELVERSION env
+     var)
 Checksums-Sha1:
- 84b13b23790526c2d17e1cd082a5e47a77613093 8226 ice-kernel-dkms_1.17.4_all.buildinfo
- 80fa35c2274a05f12aa325ddae1e8f6c5399686c 1080780 ice-kernel-dkms_1.17.4_all.deb
+ cb6f70e51d891f28fb2ce7adc22a4c0b5e2e2942 8226 ice-kernel-dkms_1.17.4_all.buildinfo
+ fc48fd978d338c893a8c33678a7a999819f5129f 1080824 ice-kernel-dkms_1.17.4_all.deb
 Checksums-Sha256:
- d92d55c747667bf8aadc2f63715f095d6a4dd9ef76ee95b26dc9bba8454d18cb 8226 ice-kernel-dkms_1.17.4_all.buildinfo
- 1bf0dc163b177d9cc7f78e99ed99c9e659a25c60fb7817d74423f8179944ca4d 1080780 ice-kernel-dkms_1.17.4_all.deb
+ 9aa5d3aaacbadd37d0673ef33a9cfe3c87f95440b767277c0da4d9da5c75248d 8226 ice-kernel-dkms_1.17.4_all.buildinfo
+ 626390b1c28649987ab072fd045bfd4bbf23efef2b7eab9d9cd77af0815c6010 1080824 ice-kernel-dkms_1.17.4_all.deb
 Files:
- 8fddcfcb8b4093c3fc63f3e07bba0737 8226 mlit/kernel optional ice-kernel-dkms_1.17.4_all.buildinfo
- 20b5c6453c95d3dc8ac1e9624f21bc83 1080780 mlit/kernel optional ice-kernel-dkms_1.17.4_all.deb
+ fa4ed72ecfc0ea4d176076076a65ce05 8226 mlit/kernel optional ice-kernel-dkms_1.17.4_all.buildinfo
+ a1c20ecaae715b8a0123c286a33b1331 1080824 mlit/kernel optional ice-kernel-dkms_1.17.4_all.deb
