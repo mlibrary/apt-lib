@@ -7,10 +7,10 @@ Depends: dkms (>= 2.1.0.0)
 Priority: optional
 Section: mlit/kernel
 Filename: pool/main/i/ice-kernel-dkms/ice-kernel-dkms_1.17.4_all.deb
-Size: 1080588
-SHA256: 49c9bf2cb059755d36248c091ac2e04d80f4f656aa9ce5eaccb0a3d8e31639f4
-SHA1: 0774d07469cb9300ea09b404e9b54e4b1e63f632
-MD5sum: a20a90f9b183afd95480c1eb96804202
+Size: 1080824
+SHA256: 626390b1c28649987ab072fd045bfd4bbf23efef2b7eab9d9cd77af0815c6010
+SHA1: fc48fd978d338c893a8c33678a7a999819f5129f
+MD5sum: a1c20ecaae715b8a0123c286a33b1331
 Description: Intel Ethernet 800 Series driver
 
 Package: puppetdb
