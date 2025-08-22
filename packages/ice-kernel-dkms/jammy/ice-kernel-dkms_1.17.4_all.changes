@@ -19,8 +19,8 @@ Changes:
    * Added BUILD_KERNEL to Make command (does not use default KERNELVERSION env
      var)
 Checksums-Sha1:
- fc48fd978d338c893a8c33678a7a999819f5129f 1080824 ice-kernel-dkms_1.17.4_all.deb
+ d30e3dc40ada54399a34c13b5033f2ca4f418ea7 1080870 ice-kernel-dkms_1.17.4_all.deb
 Checksums-Sha256:
- 626390b1c28649987ab072fd045bfd4bbf23efef2b7eab9d9cd77af0815c6010 1080824 ice-kernel-dkms_1.17.4_all.deb
+ b44976c71648c43b38b3ca7bdd259e00b8dc621ae07436d70bad8b4f7dac1894 1080870 ice-kernel-dkms_1.17.4_all.deb
 Files:
- a1c20ecaae715b8a0123c286a33b1331 1080824 mlit/kernel optional ice-kernel-dkms_1.17.4_all.deb
+ 4fb794203cc03af8cb7d9f92ccbaf6ac 1080870 mlit/kernel optional ice-kernel-dkms_1.17.4_all.deb
