@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Mon, 11 Aug 2025 12:08:02 -0400
+Source: ice-kernel-dkms
+Binary: ice-kernel-dkms
+Built-For-Profiles: noudeb
+Architecture: all
+Version: 2.3.14
+Distribution: jammy
+Urgency: medium
+Maintainer: "University of Michigan Library IT" <lit-noreply@umich.edu>
+Changed-By: University of Michigan Library IT <lit-noreply@umich.edu>
+Description:
+ ice-kernel-dkms - Intel Ethernet 800 Series driver
+Changes:
+ ice-kernel-dkms (2.3.14) jammy; urgency=medium
+ .
+   * Initial package
+   * Added dkms to the regular depends (this should let it rebuild on new
+     kernel install?)
+   * Added BUILD_KERNEL to Make command (does not use default KERNELVERSION env
+     var)
+Checksums-Sha1:
+ 10201af8bbc158828bd994e9092c9bd72316adf3 8295 ice-kernel-dkms_2.3.14_all.buildinfo
+ 4285311eb3d786be21acd83d4adb1c43b8395a78 1096336 ice-kernel-dkms_2.3.14_all.deb
+Checksums-Sha256:
+ bc04e1ac9a657c10d340f1c2905461887d0f83761fbe7b07690af4b08a9e4b51 8295 ice-kernel-dkms_2.3.14_all.buildinfo
+ 257c04a9d605c5f4f07bbfe7964d1a44a78f1a23e5aa2e7e43af17ece3d122cf 1096336 ice-kernel-dkms_2.3.14_all.deb
+Files:
+ 4c37f4346c5ef4292a719846d7c1b71d 8295 mlit/kernel optional ice-kernel-dkms_2.3.14_all.buildinfo
+ 1b84a1c4473bca361267ca06af1474c7 1096336 mlit/kernel optional ice-kernel-dkms_2.3.14_all.deb
