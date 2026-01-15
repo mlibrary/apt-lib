@@ -6,3 +6,4 @@ Files in this directory:
 - 📁 [bullseye/](bullseye)
 - 📁 [jammy/](jammy)
 - 📁 [noble/](noble)
+- 📁 [trixie/](trixie)
