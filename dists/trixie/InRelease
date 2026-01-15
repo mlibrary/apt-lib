@@ -3,7 +3,7 @@ Hash: SHA512
 
 Origin: apt.lib.umich.edu
 Codename: trixie
-Date: Thu, 15 Jan 2026 06:30:41 UTC
+Date: Thu, 15 Jan 2026 17:27:54 UTC
 Architectures: amd64 arm64
 Components: main
 Description: MLibrary Packages for Debian 13 (trixie)
@@ -30,17 +30,17 @@ SHA256:
  a6c638de528ef963020032a6980d34efdbd3752e14165d36ab0f1471cc94fc35 116 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE2mz2fxnHeCzq/H2bdQVa+wqdxp8FAmloiZEACgkQdQVa+wqd
-xp+TxxAAqXM3PQCsk0+T7+TBhrGsoypKYUCMbXW2KEDw2j80u3FbNGeLgNslzagm
-YflMRNtbq6M2y0MSKeg7W7lJbd8BJO1J/UjmJw5HYXL11aD6c1Hi9CbkhQOwaQQr
-lsIzQCfdzedkzOmvaniCkaND+f1qUoGAcNk1NemUvL/jg6rMMhLIAUL1tvRu5/sB
-yR5XtwMO2dgTsVnv4fzyCQtocQxid6QGIa/L7QP/ew4Bq4eyuZ6Bc9Fx7FH4Xn/F
-huF/GIvX9DbHBbkV6haxcnTwn4UH2r234EB4gHd9LdcLiOYOPqD1dmUQ78t4XnMr
-/bJ00p6npTPnWAs1B4vUP9v+bowRDFVlUCYgFVgiZilYh3se1jGlDx0kCrPoeQNy
-Lt49XBHCD9bHb2OhWCpuKt3VA1zKeOoccx9+cLUK/oiTtkf1mowf0s22zMY5Gk5X
-hX5tJ8ew33HpO66/jgilOPsaUe2TSIoT55b/nOPQsS9t4bUhKOR6AzzOGZg17G02
-w93LNBXMP/idGjsAD7ECyofgISnO+8dKk6IneMyyPg8Q2VKVsjzIGPfyuOFZfkMt
-/TGfVdOa6Jtv69CIvZ9Sd3VicmqYJX5pn5hwnYpqXoyjMt+lHBwho/KDz1zeoTeQ
-jbmbVzuZTzls7kyjaTGM9+nU4vC/S698aYtrPRCqaehfRMQS43I=
-=moqY
+iQIzBAEBCgAdFiEE2mz2fxnHeCzq/H2bdQVa+wqdxp8FAmlpI5oACgkQdQVa+wqd
+xp9GCA//Ql4EQ2/rJHkLnxeg6FLsEdjcgeCr1zXT9EHkiyMn5oi9uV41xAsTqfsv
+RpSkqBEABLbAKuuiwz4qxZnxHqbM1Ew9dwntVkt6OOFqTQ0JkwrDEeway+ZHOHqk
+7YjoYCynxAbCaBmbrZJmAhVxssujZKtMtTYZ/VMDskwSJEWDj7XNJw0hFZic4Yw4
+KieJY260MHsEJ55bm6zHgiz1Bb/tjbg9LThsohhpQaHKI1d94em7ShrVehlPIZ9s
+O+zgvIrBhp542VJAvkkcm3gsMcJ1PQ+WzhJmwgoFGXIMTnknsV79OMeb3PlO7sQI
+JCPszCcRABZY8TF2eVRLr07+afMTQX1fDCkxvf6HPI89voXbbb1/7U5fJVqRtyj7
+wBeetZzH8aF5HoTjrxFBNPvRslq0k3dglZH5MdmLf2b2Oz7ZmKeELbTn5csDxvi1
+XIrwsgti3nPbLvB8ktgSd7MkPUjl+Eyt0DfMLbOCbTnhdECpuZXzmVoUr4Yi2Ewu
+brCFETC76CCutOZAnEsSd5Ih38AovgIkpYrRttxs4hjK1wIo1k7wpRmCg81o0HRo
+RtIKmtpDzpFTayNcoKzke+1SqpBD2h0e2Im/dlMBgjelmQ5wVWeaXzOTalgMDwn2
+r2e1LS4gymaMmsFqVX8puIEIRmwVMkRXNYYRclAVnDf1Qlt6GLo=
+=QwmS
 -----END PGP SIGNATURE-----

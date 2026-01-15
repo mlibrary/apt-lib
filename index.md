@@ -20,7 +20,7 @@ curl -fsSL https://apt.lib.umich.edu/mlibrary-archive-keyring.gpg -o /etc/apt/ke
 ```
 2. Add repo:
 ```bash
-echo "deb [signed-by=/etc/apt/keyrings/mlibrary-archive-keyring.gpg] https://apt.lib.umich.edu/github-pages-dep-repo bullseye main" > /etc/apt/sources.list.d/mlibrary.list
+echo "deb [signed-by=/etc/apt/keyrings/mlibrary-archive-keyring.gpg] https://apt.lib.umich.edu bullseye main" > /etc/apt/sources.list.d/mlibrary.list
 ```
 3. Apt update
 ```bash
