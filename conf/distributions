@@ -13,6 +13,13 @@ Description: MLibrary Packages for Debian 12 (bookworm)
 SignWith: 75055AFB0A9DC69F
 
 Origin: apt.lib.umich.edu
+Codename: trixie
+Architectures: amd64 arm64
+Components: main
+Description: MLibrary Packages for Debian 13 (trixie)
+SignWith: 75055AFB0A9DC69F
+
+Origin: apt.lib.umich.edu
 Codename: jammy
 Architectures: amd64 arm64
 Components: main

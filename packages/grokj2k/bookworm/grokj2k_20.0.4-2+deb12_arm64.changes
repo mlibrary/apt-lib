@@ -1,0 +1,19 @@
+Format: 1.8
+Date: Thu, 15 Jan 2026 04:57:06 +0000
+Source: grokj2k
+Binary: grokj2k
+Architecture: arm64
+Version: 20.0.4-2+deb12
+Distribution: bookworm
+Urgency: medium
+Maintainer: University of Michigan Library IT <lit-noreply@umich.edu>
+Description: Grok JPEG 2000 library
+Changes:
+ grokj2k (20.0.4-2+deb12) bookworm; urgency=medium
+  * Package created with FPM.
+Checksums-Sha1:
+ 941accdf62553473eebaa586fdc6e3aa666e0fb7 1284732 grokj2k_20.0.4-2+deb12_arm64.deb
+Checksums-Sha256:
+ 09389b94b896ea7999e4d75e465071555d8d962b2024b45704249366e23ebc89 1284732 grokj2k_20.0.4-2+deb12_arm64.deb
+Files:
+ 7be879c73d0f48747abb42085e16512d 1284732 default optional grokj2k_20.0.4-2+deb12_arm64.deb
