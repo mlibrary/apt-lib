@@ -1,5 +1,5 @@
 Package: grokj2k
-Version: 20.0.4-2+deb13
+Version: 20.0.5-1+deb13
 License: unknown
 Vendor: none
 Architecture: arm64
@@ -10,10 +10,10 @@ Conflicts: grokj2k-tools, libgrokj2k1
 Homepage: https://github.com/GrokImageCompression/grok
 Priority: optional
 Section: default
-Filename: pool/main/g/grokj2k/grokj2k_20.0.4-2+deb13_arm64.deb
-Size: 1329302
-SHA256: 16abd4ffd2ebec78ca15bc2105d3ee0e1c973eb8ad4624b17598626766a11536
-SHA1: 9d126181dd33cab4aec209ab624cadc92f02d5fa
-MD5sum: f4ec0a7aa781eae93a5d89e6ae57d335
+Filename: pool/main/g/grokj2k/grokj2k_20.0.5-1+deb13_arm64.deb
+Size: 1327348
+SHA256: 350a89128ce6c2a7cfbfdb3935315a4c0dc311e0973d5555ab3329f1d5c3fc1f
+SHA1: eafa56d8acdce5d2386433907e3242994c133745
+MD5sum: d8628bb8fc9a000dc6d69bc19949dfdf
 Description: Grok JPEG 2000 library
 

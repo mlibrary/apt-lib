@@ -3,44 +3,44 @@ Hash: SHA512
 
 Origin: apt.lib.umich.edu
 Codename: trixie
-Date: Fri, 16 Jan 2026 20:21:16 UTC
+Date: Wed, 28 Jan 2026 18:03:37 UTC
 Architectures: amd64 arm64
 Components: main
 Description: MLibrary Packages for Debian 13 (trixie)
 MD5Sum:
- 0884d2293ec117bc7189beced6bc5ee8 686 main/binary-amd64/Packages
- 8c20ad7ff130fb967197ea63a0872070 489 main/binary-amd64/Packages.gz
+ a6c0d6cd2ab96e5d098e22066038d477 686 main/binary-amd64/Packages
+ 876bd26c94d84aa49c70139be08e0241 489 main/binary-amd64/Packages.gz
  c66b7b89e5f94fdaa65ec0084280fee9 116 main/binary-amd64/Release
- ddb2bcb3836111adf9074cfcb9bd5f5e 686 main/binary-arm64/Packages
- a6fb6d2551aec55c8ef27e1f60fd18f7 490 main/binary-arm64/Packages.gz
+ 37ef47c567cec7dc3e4435ecbe9bb7e9 686 main/binary-arm64/Packages
+ c8363a7588c0260060a45d7277a3dca8 489 main/binary-arm64/Packages.gz
  4e70caf9ae53989df632c7b10adae27a 116 main/binary-arm64/Release
 SHA1:
- bbd4ab3932b7bf375e9a5fd17139b94252e8f198 686 main/binary-amd64/Packages
- f40bc5290599cfdd97b18f2e7a7142919a943689 489 main/binary-amd64/Packages.gz
+ bb7e33dda78650564785a3db1e429972edd1a85f 686 main/binary-amd64/Packages
+ a049fc9fc02659de9838fd55ab21c81d98efc3fb 489 main/binary-amd64/Packages.gz
  2bb4011cdf9f55dc2142aea7160a94d734ff290f 116 main/binary-amd64/Release
- e7594a6611924bbc37d40cdaf33a7c3c22acf866 686 main/binary-arm64/Packages
- 7da9ed50b66159e6c80a1bf8b05152c052f67c0f 490 main/binary-arm64/Packages.gz
+ c2560314bf28a76d5d3943e747bb003e1867dafb 686 main/binary-arm64/Packages
+ ec6ceb1344d690b443bc9722b966f876d2712c75 489 main/binary-arm64/Packages.gz
  e2b9bff6e4260ff90c16611837c00e628be7e04d 116 main/binary-arm64/Release
 SHA256:
- ca4f8833a3e0b99e8b67e024a2195c81357f27f1b7578f20d03c29b13bd7245f 686 main/binary-amd64/Packages
- 96e7038e104e865f51b945bc3e4317eb5af993b7e60b2a4ffe9da63d42e69dc6 489 main/binary-amd64/Packages.gz
+ d8a8641037002e83f13b068d0c35161963ee7d7ba655cbc2468c6e2d311a6946 686 main/binary-amd64/Packages
+ cf1828ab86f7dff434f384535f6c4d945c7c2da4c70b1d6289e01f3711e30bd4 489 main/binary-amd64/Packages.gz
  7aa6a7d64063c0133140e32c518cfb712478e20f754c7a6010d95bfc4061c309 116 main/binary-amd64/Release
- 46ca606827a110def4ff29ca8963545ca0fcf5d4bd3903ebd31163e43ab3263e 686 main/binary-arm64/Packages
- fceb0bf4008a6ffbe0a4481f98d0a7c579a0194555a8a1cf37550071d0fe69c3 490 main/binary-arm64/Packages.gz
+ 755584a3ef8a45b495a14f88830858d93de8a1390ae91d564c3e0df147a68c84 686 main/binary-arm64/Packages
+ a5e50feb6a6294a356b24bb91c9d2382b3bb121ca3f3ce5d38891aad373d1818 489 main/binary-arm64/Packages.gz
  a6c638de528ef963020032a6980d34efdbd3752e14165d36ab0f1471cc94fc35 116 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE2mz2fxnHeCzq/H2bdQVa+wqdxp8FAmlqnbwACgkQdQVa+wqd
-xp9T1Q//aNLtWb5SmvmVI12m7NjaOPoIuepFewQVPkidPHGPzH05FKnJnUWkDI37
-vtzpT5Ru2LKTZmex0gYVd6lc4ioFH8EzdQjXfsDDFAeMTJfpuqRA2d0N4ujQ76rp
-PJNws2gOTQIr9PhWfHK+wfPledjZku3dtSdXPl2XKPy8C75DP1tFdJtf0NC404Zf
-TVeLpsvtP6ePVNaMogKi10xsYJgZD0spfGgD7nd4huu0NlAOfMAhE8NZ6Y+fse0b
-D0ZeyAlyt9VjAibeia3xhRqYdzHy9pJkrACVuPOqc9/hMJXI0f25XjleMtp1pdI6
-FgNDtVxezQhn2w8ZehxkSgV5BbquvD02ylA5NkXaSALQneBPzqWAt91pfwM4xYNW
-RmisRD9yayP5fEeiDzWWJhC9ZKqb3nQfzZFiEcUC597Bb7T7g4zPwVRiA+Bzhwp3
-SarMSu/Glk2MBPoixryhW6q3rG1Cw9dFLF20n+vLQ6mVaoc74txksDSy9v0m+UzI
-ZZq+4DjfFCCnQUH+N+SPImXGryGT4LyVUQLB8mBFNhPxzcIt1TvxT84r1p8auxsy
-ceDc8zTIZjPlHFtmzXJnG51LPbBl/9jBpR+tdNu/Q9XH0kkB30Wis1Dkpudf3KOt
-3GpjVI/SBlK13OQZQ1mlPiTFCKeIhUruhPAFw2QonLh7fHppe+4=
-=66js
+iQIzBAEBCgAdFiEE2mz2fxnHeCzq/H2bdQVa+wqdxp8FAml6T3kACgkQdQVa+wqd
+xp8byg/+MBOfZzg21j5wzko50rzu81NL4VWCCNyV9KDyIL1V5I43K55vNtIwhZV7
+9YnuGoLevMqlMdpsNY5XzR6IDXKCbEGdGSPHutcm6KVGt0OBSMJAGaDlc5hu9906
+qGUB5oK0CLgdnUA7zWgGQC1quvRJjW2X/YVUTOujt7ejHbePBN6Yvc6oZUcxROEK
+Kv/KrSoSZPYxqPXAoyWnxg1Tuq64IPDgApkk50LzC988oekLx/xQvrVFYmTVR9mr
+ov4BdnOSNUOCQ4aJ22qEsB+nb8r8g/sUIaFOGS+IfK2fDdrGtmQgAAJWnqBC1eHI
+P3EbQp1o0Bs9Nofl6qlWUMANLc3YzZRZ8LU+X8aFzM9LMIT1Gf4+mgA8xnFiY07I
+vUG5Ol9pwHDHLJK13d5LdYjpUM7LG+BxtXtCAIYhQuuLlbGBQjtdE6rRQFD1Qbzw
+toMTNE3TMyzD8hoNULHLQ5kBLbohRjb0tG1GXI2sz0+Fcmr4QP7LBZb8S1YWiHI4
+5OdYJ9rCEWdeCugW/W3CX88OpPTviIrLV/zxZyXPBo1UFbv7Qp1FHKl28zqTKrch
+Ztn4miGajKGRZOw8+VLXhfYQd2UZUlOmhappo96kFfdnWri+CH5cPJW0kMM5W7LF
+Sh3aPc2yh4vw7f74Qr9lDSMk/onIcFXhaia/QhMUYirhhjCZWEc=
+=orsh
 -----END PGP SIGNATURE-----
