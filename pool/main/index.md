@@ -6,4 +6,3 @@ Files in this directory:
 - 📁 [i/](i)
 - 📁 [liba/](liba)
 - 📁 [o/](o)
-- 📁 [p/](p)
