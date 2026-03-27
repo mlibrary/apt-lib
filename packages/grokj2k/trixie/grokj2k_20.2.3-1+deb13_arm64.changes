@@ -1,0 +1,19 @@
+Format: 1.8
+Date: Fri, 27 Mar 2026 14:13:32 +0000
+Source: grokj2k
+Binary: grokj2k
+Architecture: arm64
+Version: 20.2.3-1+deb13
+Distribution: trixie
+Urgency: medium
+Maintainer: University of Michigan Library IT <lit-noreply@umich.edu>
+Description: Grok JPEG 2000 library
+Changes:
+ grokj2k (20.2.3-1+deb13) trixie; urgency=medium
+  * Package created with FPM.
+Checksums-Sha1:
+ f1a029ee2a98d23f5c66765f739c9e33393b4325 1557572 grokj2k_20.2.3-1+deb13_arm64.deb
+Checksums-Sha256:
+ 226b998d585c1314f9b3d8d576788b124b848472c6eb3ea1d4e67796d52ff641 1557572 grokj2k_20.2.3-1+deb13_arm64.deb
+Files:
+ 35921462223ead793af68b2be94840fd 1557572 default optional grokj2k_20.2.3-1+deb13_arm64.deb
