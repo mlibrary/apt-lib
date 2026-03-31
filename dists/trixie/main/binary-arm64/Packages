@@ -1,19 +1,19 @@
 Package: grokj2k
-Version: 20.2.3-1+deb13
+Version: 20.2.5-1+deb13
 License: unknown
 Vendor: none
 Architecture: arm64
 Maintainer: University of Michigan Library IT <lit-noreply@umich.edu>
-Installed-Size: 4265
+Installed-Size: 4287
 Depends: libimage-exiftool-perl, libjpeg62-turbo, liblcms2-2, libperl5.40, libpng16-16t64, libtiff6
 Conflicts: grokj2k-tools, libgrokj2k1
 Homepage: https://github.com/GrokImageCompression/grok
 Priority: optional
 Section: default
-Filename: pool/main/g/grokj2k/grokj2k_20.2.3-1+deb13_arm64.deb
-Size: 1557572
-SHA256: 226b998d585c1314f9b3d8d576788b124b848472c6eb3ea1d4e67796d52ff641
-SHA1: f1a029ee2a98d23f5c66765f739c9e33393b4325
-MD5sum: 35921462223ead793af68b2be94840fd
+Filename: pool/main/g/grokj2k/grokj2k_20.2.5-1+deb13_arm64.deb
+Size: 1573894
+SHA256: 74db584439c353d18e738f06872d677914120b7984bc2a6a0643d6f6055a2174
+SHA1: aa5ac5b57ba44190384d8220ce78340322a09413
+MD5sum: 15705ad1ad812cbbf6c3e6ce4a0f5a1f
 Description: Grok JPEG 2000 library
 
