@@ -1,28 +1,3 @@
-<p align="center">
- <h1 align="center"> - MLibrary Public Debian Repository - </h1>
-</p>
+Control repo is now private. Moved to [mlibrary/apt](https://github.com/mlibrary/apt).
 
-<p align="center">
-  <a href="https://github.com/mlibrary/apt-lib/actions/workflows/build-and-deploy.yml"><img src="https://github.com/mlibrary/apt-lib/actions/workflows/build-and-deploy.yml/badge.svg" /></a>
-  <a href="https://www.gnu.org/licenses/agpl-3.0" ><img src="https://img.shields.io/badge/License-AGPL%20v3-blue.svg" /></a>
-</p>
-
-<p align="center">
-MLibrary Public Packages (Bullseye)
-</p>
-
-# Setup
-To use the repository, please follow these steps:
-1. Import key (as root or with sudo):
-```bash
-mkdir -p /etc/apt/keyrings
-curl -fsSL https://apt.lib.umich.edu/mlibrary-archive-keyring.gpg -o /etc/apt/keyrings/mlibrary-archive-keyring.gpg
-```
-2. Add repo:
-```bash
-echo "deb [signed-by=/etc/apt/keyrings/mlibrary-archive-keyring.gpg] https://apt.lib.umich.edu $(grep -m1 '^VERSION_CODENAME=' /etc/os-release | cut -d= -f2) main" > /etc/apt/sources.list.d/mlibrary.list
-```
-3. Apt update
-```bash
-apt update
-```
+Apt repo still available at [apt.lib.umich.edu](https://apt.lib.umich.edu).
